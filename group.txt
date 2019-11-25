@@ -1,0 +1,7 @@
+[   								
+	{"groupName":"VTV - VTC"},			
+	{"groupName":"HTV - SCTV"},			
+	{"groupName":"Kênh Địa Phương"},			
+	{"groupName":"Quốc Tế"},			
+	{"groupName":"Kênh Khác"}
+]
