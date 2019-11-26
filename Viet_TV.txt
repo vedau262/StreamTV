@@ -82,8 +82,6 @@ http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc11.php
 
 #EXTINF:-1 tvg-id="VTC12" tvg-name="VTC12" tvg-logo="https://i.postimg.cc/brJ4vQBz/image.png" group-title="VTV - VTC",VTC12
-http://www.xemtivionline.net/ok/next.php?id=vtc12
-http://next.xemtiviso.net/next.php?id=vtc12
 http://data.xemtivihot.com/live/vtc/vtc12.php
 
 #EXTINF:-1 tvg-id="VTC14" tvg-name="VTC14" tvg-logo="https://i.postimg.cc/qvL7HgkL/vtc14.png" group-title="VTV - VTC",VTC14
