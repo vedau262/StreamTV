@@ -87,8 +87,8 @@ http://data.xemtivihot.com/live/vtc/vtc6.php
 #EXTINF:-1 tvg-id="VTC7" tvg-name="VTC7" tvg-logo="https://i.postimg.cc/cJxNRmG7/vtc7.png" group-title="VTV - VTC",VTC7 - Today TV
 http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
 http://tw.101vn.com/resource/live/tpap.php?id=anhsaovtc7&c=411619115&type=rd&p.m3u8
-http://www.xemtivionline.net/ok/next.php?id=vtc7
 http://data.xemtivihot.com/live/vtc/vtc7.php
+http://xemtivi.online/live/vtc/vtc7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC8" tvg-name="VTC8" tvg-logo="https://i.postimg.cc/D0XVvp1h/vtc8.png" group-title="VTV - VTC",VTC8
 http://www.xemtivionline.net/ok/next.php?id=vtc8
