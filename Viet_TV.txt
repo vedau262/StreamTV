@@ -1,74 +1,53 @@
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png" group-title="VTV - VTC",VTV1
-http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv1_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
-http://www.xemtivionline.net/ok/next.php?id=vtv1
 http://data.xemtivihot.com/live/vtv/vtv1.php
 
 #EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png" group-title="VTV - VTC",VTV2
-http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv2_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
-http://www.xemtivionline.net/ok/next.php?id=vtv2
 http://data.xemtivihot.com/live/vtv/vtv2.php
 
 #EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV3.png" group-title="VTV - VTC",VTV3
-http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv3_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
-http://www.xemtivionline.net/ok/next.php?id=vtv3
 http://data.xemtivihot.com/live/vtv/vtv3.php
 
 #EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV4.png" group-title="VTV - VTC",VTV4
-http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv4_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
-http://www.xemtivionline.net/ok/next.php?id=vtv4
 http://data.xemtivihot.com/live/vtv/vtv4.php
 
 #EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV5.png" group-title="VTV - VTC",VTV5
-http://13103971eac8a63.kcdn.vn/vtvlivesport/vtv5_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
-http://www.xemtivionline.net/ok/next.php?id=vtv5
 http://data.xemtivihot.com/live/vtv/vtv5.php
 
 #EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/7__.png" group-title="VTV - VTC",VTV5 Tây Nam Bộ
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-t%C3%A2y-nam-b%E1%BB%99-7.html
 
 #EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV6.png" group-title="VTV - VTC",VTV6
-http://13103971eac8a63.kcdn.vn/vtvlivesport/vtv6_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
-http://www.xemtivionline.net/ok/next.php?id=vtv6
 http://data.xemtivihot.com/live/vtv/vtv6.php
 
 #EXTINF:-1 tvg-id="VTV7" tvg-name="VTV7" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png" group-title="VTV - VTC",VTV7
-http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv7_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html
-http://www.xemtivionline.net/ok/next.php?id=vtv8
 http://data.xemtivihot.com/live/vtv/vtv7.php
 
 #EXTINF:-1 tvg-id="VTV8" tvg-name="VTV8" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png" group-title="VTV - VTC",VTV8
-http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv8_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.html
-http://www.xemtivionline.net/ok/next.php?id=vtv8
 http://data.xemtivihot.com/live/vtv/vtv8.php
 
 #EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png" group-title="VTV - VTC",VTV9
-http://13103971eac8a63.kcdn.vn/vtvgtlivestream/vtv9_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
-http://www.xemtivionline.net/ok/next.php?id=vtv9
 http://data.xemtivihot.com/live/vtv/vtv9.php
 
 #EXTINF:-1 tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://i.postimg.cc/tgkpwcNm/vtc1hd.png" group-title="VTV - VTC",VTC1
 https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
 http://media.kythuatvov.vn:1936/live/VTC1.HD/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-s%E1%BB%91-vtc1-99.html
-http://www.xemtivionline.net/ok/next.php?id=vtc1
 
 #EXTINF:-1 tvg-id="VTC2" tvg-name="VTC2" tvg-logo="https://i.postimg.cc/W3fjbJKG/vtc2.png" group-title="VTV - VTC",VTC2
 http://www.xemtivionline.net/ok/next.php?id=vtc2
 http://data.xemtivihot.com/live/vtc/vtc2.php
 
 #EXTINF:-1 tvg-id="VTC3" tvg-name="VTC3" tvg-logo="https://i.postimg.cc/NF9tyjqW/vtc3hd.png" group-title="VTV - VTC",VTC3
-http://cdn3.vtcplay.vn:1935/VTC/smil:VTC3.smil/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
-http://www.xemtivionline.net/ok/next.php?id=vtc3
 http://data.xemtivihot.com/live/vtc/vtc3.php
 
 #EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://i.postimg.cc/C53gbpwd/vtc4.png" group-title="VTV - VTC",VTC4 - Yeah1 Family
