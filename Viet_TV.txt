@@ -1,5 +1,4 @@
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png" group-title="VTV - VTC",VTV1
-http://live.cgtn.com/cctv-d.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
 http://data.xemtivihot.com/live/vtv/vtv1.php
 
@@ -230,9 +229,6 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/9F4S8DLs/cbsn.png" tvg-name="CBSN (HD)"  group-title="Quốc Tế",CBSN (HD)
 https://cbsnhls-i.akamaihd.net/hls/live/264710-b/cbsn_hlsprod_2/master.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/PqK2rH6m/cgtndoc.png" tvg-name="CGTN Documentary"  group-title="Quốc Tế",CGTN Documentary
-http://live.cgtn.com/cctv-d.m3u8
-
 #EXTINF:-1, tvg-id="BBC World News" tvg-logo="https://i.postimg.cc/zBzF7yxR/bbcworldnews.png" tvg-name="BBC World News"  group-title="Quốc Tế",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 
@@ -253,6 +249,9 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/N0QdcFxs/cgtn.png" tvg-name="CGTN"  group-title="Quốc Tế",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/PqK2rH6m/cgtndoc.png" tvg-name="CGTN Documentary"  group-title="Quốc Tế",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdn.freebiesupply.com/images/thumbs/2x/hbo-logo.png" group-title="Quốc Tế",HBO
 http://45.122.223.98/ok.php?id=1095992549084&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilUbzBPKFQ=&play.m3u8
