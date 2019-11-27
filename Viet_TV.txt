@@ -612,6 +612,7 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://www.xemtivionline.net/ok/next.php?id=camau
 http://next.xemtiviso.net/next.php?id=camau
 
+
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png" group-title="Kênh Khác",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 http://vietcago.net/vstv/antv.m3u8
@@ -623,8 +624,8 @@ http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QPVN" tvg-name="QPVN" tvg-logo="https://i.postimg.cc/bJ1HqQdM/qpvn-hd.png" group-title="Kênh Khác",QPVN
 https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/chunks.m3u8
 http://vtvgolivedp.vtvdigital.vn/hls/8a11053ed5836b98484e109b78479964/1569247149532/quocphongtv.smil/playlist.m3u8
-http://www.xemtivionline.net/ok/next.php?id=qpvn
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/C14BvJRF/tttxvn-hd.png" group-title="Kênh Khác",VNEWS
 http://live.vnanet.vn/720P/playlist.m3u8
@@ -644,8 +645,6 @@ http://vncdn.mediatech.vn/vovlive/tv1live_manifest.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png" group-title="Kênh Khác",FBNC
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
-http://www.xemtivionline.net/ok/next.php?id=fbnc
-http://data.xemtivihot.com/live/htv/fbnc.php
 
 #EXTINF:-1 tvg-id="Yeah1! TV" tvg-name="Yeah1! TV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/195__.png" group-title="Kênh Khác",Yeah1! TV
 https://vtvgo.vn/xem-truc-tuyen-kenh-yeah1tv-195.html
@@ -657,6 +656,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-haytv-196.html
 http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://imageshack.com/a/img921/8687/HsIQY8.png" group-title="Kênh Khác",VTVcab1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT/VTV1-HD-ABR/playlist.m3u8
 http://146.196.65.63/live/vcab2.stream/playlist.m3u8?endtime=&starttime=&hash=%7C275c6b6f11e0218d9172dae2391d1157%7Cdf423631f06c4cdef0f383dff56aec21
 
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://i.imgur.com/NjGWwNX.gif" group-title="Kênh Khác",VTVcab5
