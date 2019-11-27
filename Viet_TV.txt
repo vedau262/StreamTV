@@ -177,8 +177,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="HTVC Shopping" tvg-name="HTVC Shopping" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-04-10/6210937-home-sopping-01.png" group-title="HTV - SCTV",HTVC Shopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://i.postimg.cc/mr8Hb8St/cartoonnetwork-hd.png" group-title="Quốc Tế",CARTOON NETWORK HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
@@ -291,8 +289,6 @@ http://45.126.83.51/uq2663/h/h05/index.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/j2kZpVJ3/image.png" tvg-name="TV5 Monde Style"  group-title="Quốc Tế",TV5 Monde Style
 http://45.126.83.51/uq2663/h/h01/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="THVL1" tvg-name="THVL1" tvg-logo="https://i.postimg.cc/DyRZPRxr/thvl1.png" group-title="Kênh Địa Phương",Vĩnh Long 1
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8?
@@ -584,7 +580,6 @@ http://www.xemtivionline.net/ok/next.php?id=baclieu
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://www.xemtivionline.net/ok/next.php?id=camau
 http://next.xemtiviso.net/next.php?id=camau
-
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://103.56.158.185/tv_icon/antv.png" group-title="Kênh Khác",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
