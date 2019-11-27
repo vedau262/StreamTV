@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png" group-title="VTV - VTC",VTV1
+http://live.cgtn.com/cctv-d.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
 http://data.xemtivihot.com/live/vtv/vtv1.php
 
