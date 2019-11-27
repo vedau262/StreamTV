@@ -115,13 +115,11 @@ http://m1.xemtivitop.info/htv/htvc.php?id=2669&play.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
 http://m1.xemtivitop.info/htv/htvc.php?id=2535&play.m3u8
 http://vietcago.net/vstv/htv3.m3u8
-http://27.67.80.97:18080//71_0.m3u8?AdaptiveType=HLS&SessionID=88ef7ab3-8242-4fc7-9cb0-632919e808aa&MinBw=0&MaxBw=2000000
 
 #EXTINF:-1 tvg-id="HTV4" tvg-name="HTV4" tvg-logo="https://i.postimg.cc/wMtf5tBQ/htvkey.png" group-title="HTV - SCTV",HTV4
 http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8
 http://m1.xemtivitop.info/htv/htvc.php?id=2528&play.m3u8
 http://vietcago.net/vstv/htv4.m3u8
-http://www.xemtivionline.net/ok/next.php?id=htv4
 
 #EXTINF:-1 tvg-id="HTV7" tvg-name="HTV7" tvg-logo="https://i.postimg.cc/T3m8MsfJ/htv7.png" group-title="HTV - SCTV",HTV7
 http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8
@@ -167,13 +165,11 @@ http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvcgiadinh.m3u8
-http://next.xemtiviso.net/next.php?id=htvc-giadinh
 
 #EXTINF:-1 tvg-id="HTVC Phụ Nữ" tvg-name="HTVC Phụ Nữ" tvg-logo="https://i.postimg.cc/gJ1dfzsc/htvcphunu-hd.png" group-title="HTV - SCTV",HTVC Phụ Nữ
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvcphunu.m3u8
-http://next.xemtiviso.net/next.php?id=htvc-phunu
 
 #EXTINF:-1 tvg-id="HTV KEY" tvg-name="HTV KEY" tvg-logo="https://i.postimg.cc/wMtf5tBQ/htvkey.png" group-title="HTV - SCTV",HTV KEY
 http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
@@ -185,6 +181,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV1" tvg-name="SCTV1" tvg-logo="https://bookingquangcao.com/public/userfiles/images/sctv1.png" group-title="HTV - SCTV",SCTV1
+https://vtsstr1.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 http://45.122.223.98/ok.php?id=1096002051804&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3hPVG94Tnc=&play.m3u8
 
 #EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png" group-title="HTV - SCTV",SCTV2
