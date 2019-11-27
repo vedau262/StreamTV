@@ -93,9 +93,6 @@ http://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC12/hlsv5/VTC12.m3u8
 #EXTINF:-1 tvg-id="VTC13" tvg-name="VTC13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwazJIAegueXX1iIViYcowZUwNeZPsJWSJN0bD1SeSTBtJnsOtWQ&s" group-title="VTV - VTC",VTC13
 https://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC13/hlsv5/VTC13.m3u8
 
-#EXTINF:-1 tvg-id="VTC14" tvg-name="VTC14" tvg-logo="https://i.postimg.cc/qvL7HgkL/vtc14.png" group-title="VTV - VTC",VTC14
-http://27.67.80.68:18080//16_0.m3u8?AdaptiveType=HLS&SessionID=18844ae5-ae47-4094-87d5-5fe8ef39903f&MinBw=0&MaxBw=2000000
-
 #EXTINF:-1 tvg-id="VTC16" tvg-name="VTC16" tvg-logo="https://i.postimg.cc/43xxfZyT/vtc16.png" group-title="VTV - VTC",VTC16
 http://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC16/hlsv5/VTC16.m3u8
 https://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC16/hlsv5/VTC16-avc1_2395600=3.m3u8
@@ -179,22 +176,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HTVC Shopping" tvg-name="HTVC Shopping" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-04-10/6210937-home-sopping-01.png" group-title="HTV - SCTV",HTVC Shopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SCTV1" tvg-name="SCTV1" tvg-logo="https://bookingquangcao.com/public/userfiles/images/sctv1.png" group-title="HTV - SCTV",SCTV1
-https://vtsstr1.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
-http://45.122.223.98/ok.php?id=1096002051804&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3hPVG94Tnc=&play.m3u8
-
-#EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png" group-title="HTV - SCTV",SCTV2
-http://45.122.223.98/ok.php?id=1096005721820&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3hPVG96KCopW2c=&play.m3u8
-
-#EXTINF:-1 tvg-id="SCTV8" tvg-name="SCTV8" tvg-logo="https://static-stage.tv24.vn/channel/205/logo26072108_sctv8.png" group-title="HTV - SCTV",SCTV8
-http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="SCTV9" tvg-name="SCTV9" tvg-logo="https://static-stage.tv24.vn/channel/129/logo26072108_sctv9-hd.png" group-title="HTV - SCTV",SCTV9
-http://lvh9hi2tpd.vcdn.com.vn/hls/d17vduc/index.m3u8?token=bKKbeE7xFmJ9S8WYlldLpw&time=1568620328
-
-#EXTINF:-1 tvg-id="SCTV11" tvg-name="SCTV11" tvg-logo="https://static-stage.tv24.vn/channel/130/logo26072108_sctv11-hd.png" group-title="HTV - SCTV",SCTV11
-http://45.122.223.98/ok.php?id=1096002969308&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKik5fW96TyhU&play.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdn.freebiesupply.com/images/thumbs/2x/hbo-logo.png" group-title="Quốc Tế",HBO
 http://45.122.223.98/ok.php?id=1095992549084&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilUbzBPKFQ=&play.m3u8
