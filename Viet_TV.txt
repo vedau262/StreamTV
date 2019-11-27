@@ -177,27 +177,11 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="HTVC Shopping" tvg-name="HTVC Shopping" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-04-10/6210937-home-sopping-01.png" group-title="HTV - SCTV",HTVC Shopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdn.freebiesupply.com/images/thumbs/2x/hbo-logo.png" group-title="Quốc Tế",HBO
-http://45.122.223.98/ok.php?id=1095992549084&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilUbzBPKFQ=&play.m3u8
 
-#EXTINF:-1 tvg-id="MAX BY HBO HD" tvg-name="MAX BY HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Quốc Tế",MAX BY HBO HD 
-http://45.122.223.98/ok.php?id=1096014634716&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqb3coKikoVA==&play.m3u8
-https://ok.ru/videoembed/1096014634716
 
 #EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://i.postimg.cc/mr8Hb8St/cartoonnetwork-hd.png" group-title="Quốc Tế",CARTOON NETWORK HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Quốc Tế",RED BY HBO
-http://45.122.223.98/ok.php?id=1095997136604&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqbzBOKFQ=&play.m3u8
-
-#EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://www.disneyinternational.com/img/toplogo.png" group-title="Quốc Tế",Hoạt Hình Disney
-http://45.122.223.98/ok.php?id=1095996874460&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqbzEoKilbZw==&play.m3u8
-
-#EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://i.postimg.cc/zXc2fF02/axn.png" group-title="Quốc Tế",AXN
-http://45.122.223.98/ok.php?id=1096000413404&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqbzEoKil3&play.m3u8
-https://vsdh129.mycdn.me/hls/535973202652.m3u8/sig/tWFsKIGCXgw/expires/1569942364962/srcIp/116.110.211.242/clientType/0/srcAg/CHROME/video.m3u8
-https://ok.ru/videoembed/1096000413404
 
 #EXTINF:-1 tvg-id="DA VINCI" tvg-name="DA VINCI" tvg-logo="https://i.postimg.cc/QMycQfKv/davinci-hd.png" group-title="Quốc Tế",DA VINCI
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?
@@ -214,24 +198,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
 #EXTINF:-1, tvg-id="FOX" tvg-logo="https://i.postimg.cc/LXjhJDtt/fox-hd.png" tvg-name="FOX (HD)"  group-title="Quốc Tế",FOX (HD)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 
-#EXTINF:-1, tvg-id="Fox Life" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/722_300.png" tvg-name="Fox Life"  group-title="Quốc Tế",Fox Life
-http://45.122.223.98/ok.php?id=1096015093468&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKil6b3pPW2c=&play.m3u8
-
-#EXTINF:-1, tvg-id="MTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/MTV_HD.png/revision/latest?cb=20110408015707" tvg-name="MTV HD"  group-title="Quốc Tế",MTV HD
-http://45.122.223.98/ok.php?id=1097166823132&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKil6b3ooKilbZw==&play.m3u8
-
-#EXTINF:-1, tvg-id="HITS HD" tvg-logo="https://i.postimg.cc/L8jg9s0W/hits.png" tvg-name="HITS (HD)"  group-title="Quốc Tế",HITS (HD)
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-
-#EXTINF:-1, tvg-id="KIX" tvg-logo="https://i.postimg.cc/02TJ1SZm/kix-hd.png" tvg-name="KIX (HD)"  group-title="Quốc Tế",KIX (HD)
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/XqdhQh8X/fightsports.png" tvg-name="Fight Sports"  group-title="Quốc Tế",Fight Sports
-http://45.126.83.51/uq2663/h/h05/index.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/j2kZpVJ3/image.png" tvg-name="TV5 Monde Style"  group-title="Quốc Tế",TV5 Monde Style
-http://45.126.83.51/uq2663/h/h01/index.m3u8
-
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/V6Rww0Nj/500px-Trace-Urban-logo-2010-svg.png" tvg-name=""  group-title="Quốc Tế",Trace Urban (HD)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 
@@ -246,12 +212,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?
 
 #EXTINF:-1, tvg-id="Animal Planet-ClipTV" tvg-logo="https://i.postimg.cc/HnSZXwHx/animalplanet-hd.png" tvg-name="Animal Planet (HD)"  group-title="Quốc Tế",Animal Planet (HD)
 http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/C11nCpwH/setanta.png" tvg-name="Setanta Sports 1"  group-title="Quốc Tế",Setanta Sports 1
-http://ott-cdn.ucom.am/s81/index.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/C11nCpwH/setanta.png" tvg-name="Setanta Sports 2"  group-title="Quốc Tế",Setanta Sports 2
-http://ott-cdn.ucom.am/s82/index.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/V6JBpxcY/channelnewsasia-hd.png" tvg-name="CNA (HD)"  group-title="Quốc Tế",CNA (HD)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -271,9 +231,6 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/9F4S8DLs/cbsn.png" tvg-name="CBSN (HD)"  group-title="Quốc Tế",CBSN (HD)
 https://cbsnhls-i.akamaihd.net/hls/live/264710-b/cbsn_hlsprod_2/master.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/N0QdcFxs/cgtn.png" tvg-name="CGTN"  group-title="Quốc Tế",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/PqK2rH6m/cgtndoc.png" tvg-name="CGTN Documentary"  group-title="Quốc Tế",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
 
@@ -288,6 +245,53 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 #EXTINF:-1, tvg-id="AD Sport 2 HD" tvg-logo="https://i.imgur.com/kiRDDPC.png" tvg-name="CNN"  group-title="Quốc Tế",AD Sport 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/C11nCpwH/setanta.png" tvg-name="Setanta Sports 1"  group-title="Quốc Tế",Setanta Sports 1
+http://ott-cdn.ucom.am/s81/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/C11nCpwH/setanta.png" tvg-name="Setanta Sports 2"  group-title="Quốc Tế",Setanta Sports 2
+http://ott-cdn.ucom.am/s82/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/N0QdcFxs/cgtn.png" tvg-name="CGTN"  group-title="Quốc Tế",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdn.freebiesupply.com/images/thumbs/2x/hbo-logo.png" group-title="Quốc Tế",HBO
+http://45.122.223.98/ok.php?id=1095992549084&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilUbzBPKFQ=&play.m3u8
+
+#EXTINF:-1 tvg-id="MAX BY HBO HD" tvg-name="MAX BY HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Quốc Tế",MAX BY HBO HD 
+http://45.122.223.98/ok.php?id=1096014634716&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqb3coKikoVA==&play.m3u8
+https://ok.ru/videoembed/1096014634716
+
+#EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Quốc Tế",RED BY HBO
+http://45.122.223.98/ok.php?id=1095997136604&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqbzBOKFQ=&play.m3u8
+
+#EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://www.disneyinternational.com/img/toplogo.png" group-title="Quốc Tế",Hoạt Hình Disney
+http://45.122.223.98/ok.php?id=1095996874460&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqbzEoKilbZw==&play.m3u8
+
+#EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://i.postimg.cc/zXc2fF02/axn.png" group-title="Quốc Tế",AXN
+http://45.122.223.98/ok.php?id=1096000413404&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqbzEoKil3&play.m3u8
+https://vsdh129.mycdn.me/hls/535973202652.m3u8/sig/tWFsKIGCXgw/expires/1569942364962/srcIp/116.110.211.242/clientType/0/srcAg/CHROME/video.m3u8
+https://ok.ru/videoembed/1096000413404
+
+#EXTINF:-1, tvg-id="Fox Life" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/722_300.png" tvg-name="Fox Life"  group-title="Quốc Tế",Fox Life
+http://45.122.223.98/ok.php?id=1096015093468&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKil6b3pPW2c=&play.m3u8
+
+#EXTINF:-1, tvg-id="MTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/MTV_HD.png/revision/latest?cb=20110408015707" tvg-name="MTV HD"  group-title="Quốc Tế",MTV HD
+http://45.122.223.98/ok.php?id=1097166823132&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKil6b3ooKilbZw==&play.m3u8
+
+#EXTINF:-1, tvg-id="HITS HD" tvg-logo="https://i.postimg.cc/L8jg9s0W/hits.png" tvg-name="HITS (HD)"  group-title="Quốc Tế",HITS (HD)
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1, tvg-id="KIX" tvg-logo="https://i.postimg.cc/02TJ1SZm/kix-hd.png" tvg-name="KIX (HD)"  group-title="Quốc Tế",KIX (HD)
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/XqdhQh8X/fightsports.png" tvg-name="Fight Sports"  group-title="Quốc Tế",Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/j2kZpVJ3/image.png" tvg-name="TV5 Monde Style"  group-title="Quốc Tế",TV5 Monde Style
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="THVL1" tvg-name="THVL1" tvg-logo="https://i.postimg.cc/DyRZPRxr/thvl1.png" group-title="Kênh Địa Phương",Vĩnh Long 1
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8?
