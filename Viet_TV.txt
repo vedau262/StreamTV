@@ -348,7 +348,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-l%E1
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%A3i-d%C6%B0%C6%A1ng-143.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/147__.png" group-title="Kênh Địa Phương",Phú Thọ
-http://vietcago.net/vstv/phuthotv.m3u8
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=AViosKCbcSrpgkuAWPJR9A&e=1574888830
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/BnFWgS7.png" group-title="Kênh Địa Phương",Hòa Bình
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
@@ -375,53 +375,39 @@ http://123.29.68.44/live.m3u8?c=vstv362&q=high&type=tv&token=yViOAU_IsATUCYun3BX
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/FEffTjz.jpg" group-title="Kênh Địa Phương",Hưng Yên (HYTV HD)
 http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-h%C6%B0ng-y%C3%AAn-185.html
-http://next.xemtiviso.net/next.php?id=hungyen
-http://www.xemtivionline.net/ok/next.php?id=hungyen
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/639?cb=20180727200541&path-prefix=vi" group-title="Kênh Địa Phương",Thái Bình (TBTV HD)
 http://vncdn.mediatech.vn/tbtvlive/tv1live.m3u8
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-th%C3%A1i-b%C3%ACnh-129.html
-http://next.xemtiviso.net/next.php?id=thaibinh
-http://www.xemtivionline.net/ok/next.php?id=thaibinh
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://truyenhinhthanhhoa.vn/dataimages/201803/original/images5392868_logoTTV.png" group-title="Kênh Địa Phương",Thanh Hóa (TTV HD)
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-thanh-ho%C3%A1-hd-181.html
-http://next.xemtiviso.net/next.php?id=thanhhoa
-http://www.xemtivionline.net/ok/next.php?id=thanhhoa
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/4028eaa467639b470167787ae85a0a2d/logontv2019-lai.png" group-title="Kênh Địa Phương",Nghệ An (NTV HD)
 http://113.160.173.47:8080/live/na1_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-ngh%E1%BB%87-an-121.html
-http://www.xemtivionline.net/ok/next.php?id=nghean
-http://next.xemtiviso.net/next.php?id=nghean
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/04/843599-hatinh.png" group-title="Kênh Địa Phương",Hà Tĩnh (HTTV HD)
 http://171.244.141.125:8080/hls/hatinhtv.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-h%C3%A0-t%C4%A9nh-198.html
-http://www.xemtivionline.net/ok/next.php?id=hatinh
-http://data.xemtiviso.net/live/diaphuong/hatinh.php
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/GStotoE.png" group-title="Kênh Địa Phương",Quảng Trị
-http://next.xemtiviso.net/next.php?id=quangtri
-http://www.xemtivionline.net/ok/next.php?id=quangtri
+http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/127__.png" group-title="Kênh Địa Phương",Huế
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-t%E1%BB%89nh-th%E1%BB%ABa-thi%C3%AAn-hu%E1%BA%BF-127.html
-http://next.xemtiviso.net/next.php?id=hue
-http://www.xemtivionline.net/ok/next.php?id=huehue
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://www.drt.danang.vn/images/drt1.pn" group-title="Kênh Địa Phương",Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://vietcago.net/vstv/danangtv1.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-%C4%90%C3%A0-n%E1%BA%B5ng-1-175.html
-http://next.xemtiviso.net/next.php?id=danang1
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://www.drt.danang.vn/images/drt2.png" group-title="Kênh Địa Phương",Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 http://vietcago.net/vstv/danangtv2.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-%C4%90%C3%A0-n%E1%BA%B5ng-2-177.html
-http://next.xemtiviso.net/next.php?id=danang2
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://anvienhd.net/uploads/images/hinhanh/3091255c872d53810a7.79811833.png" group-title="Kênh Địa Phương",Quảng Nam
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
