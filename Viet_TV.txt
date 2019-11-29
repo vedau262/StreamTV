@@ -412,7 +412,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-th-%C4%90%C3%A0-n%E1%BA%B5ng-2-177.html
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://anvienhd.net/uploads/images/hinhanh/3091255c872d53810a7.79811833.png" group-title="Địa Phương",Quảng Nam
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/8Y14H2U.png" group-title="Địa Phương",Quảng Ngãi
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://kenh76.vn/wp-content/uploads/2017/02/xem-tivi-truc-tuyen-kenh-ptq1-ptq2-truyen-hinh-quang-ngai.png" group-title="Địa Phương",Quảng Ngãi
 http://118.107.68.17:1935/VTC/smil:QNgai.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/G83cWHf.png" group-title="Địa Phương",Khánh Hòa
@@ -426,11 +426,11 @@ http://202.43.109.142:1935/thbttv/bttv/chunklist_w1829470998.m3u8
 http://202.43.109.142:1935/thbttv/bttv/playlist.m3u8
 http://202.43.109.142:1935/thbttv/bttv/chunklist_w1082490967.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/zBexNfp.png" group-title="Địa Phương",Phú Yên
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Phuyen.png/220px-Phuyen.png" group-title="Địa Phương",Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
 http://vietcago.net/vstv/phuyentv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/0vd4Tgb.jpg" group-title="Địa Phương",Kontum
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/be/LogoKRTKonTum.png" group-title="Địa Phương",Kon Tum
 http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 http://www.vietcago.net/vstv/kontumtv.m3u8
 
