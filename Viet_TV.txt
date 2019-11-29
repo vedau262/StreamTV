@@ -316,7 +316,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-h%C3%A0-n%E1%BB%99i-2-93
 http://118.107.68.10:1935/live/smil:Haiphongplus.smil/playlist.m3u8
 http://vietcago.net/vstv/haiphongtvplus.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/THP.png" group-title="Địa Phương",Hải Phòng TV
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/thp-logo.png" group-title="Địa Phương",Hải Phòng TV
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%A3i-ph%C3%B2ng-135.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/119__.png" group-title="Địa Phương",Quảng Ninh
@@ -434,7 +434,7 @@ http://vietcago.net/vstv/phuyentv.m3u8
 http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 http://www.vietcago.net/vstv/kontumtv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://gialaitv.vn/wp-content/themes/gialaitv/img/video.png" group-title="Địa Phương",Gia Lai
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tivis.101vn.com/images/thgl.png" group-title="Địa Phương",Gia Lai
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 http://vietcago.net/vstv/gialaitv.m3u8
 
@@ -445,7 +445,7 @@ http://vietcago.net/vstv/daklaktv.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/969202-Lamdong.png" group-title="Địa Phương",Lâm Đồng
 http://118.107.68.17:1935/VTC/smil:Lamdong.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/65/Logo_THTG.png" group-title="Địa Phương",Tiền Giang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/thtg-logo.png" group-title="Địa Phương",Tiền Giang
 http://thtg.vn:8001/thtg.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/431081-hau-giang.png" group-title="Địa Phương",Hậu Giang
@@ -456,11 +456,11 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%ADu-giang-
 http://live.cdn.mobifonetv.vn/motv/mydongnai1_hls.smil/chunklist_b1200000.m3u8
 http://118.107.68.17:1935/VTC/smil:Dongnai1.smil/chunklist_w1672446265_b864000_slVIE.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="Địa Phương",Kiên Giang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/kg-logo.png" group-title="Địa Phương",Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 http://vietcago.net/vstv/kiengiangtv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="Địa Phương",Kiên Giang 1
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/kg1-logo.png" group-title="Địa Phương",Kiên Giang 1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 http://vietcago.net/vstv/kiengiangtv1.m3u8
 
