@@ -567,3 +567,12 @@ https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://i.imgur.com/ENvLdTj.png" group-title="Kênh Khác",Công Giáo TV
 http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VITV" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/vitv.png" tvg-country="VN" tvg-url="" group-title="",VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png" tvg-country="VN" tvg-url="" group-title="",Việt Mỹ TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png" tvg-country="VN" tvg-url="" group-title="News",Việt News TV
+http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
