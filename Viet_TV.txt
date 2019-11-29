@@ -37,7 +37,7 @@ http://data.xemtivihot.com/live/vtv/vtv8.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
 http://data.xemtivihot.com/live/vtv/vtv9.php
 
-#EXTINF:-1 tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://i.imgur.com/avM5O3F.png" group-title="VTV - VTC",VTC1
+#EXTINF:-1 tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc1sd.png" group-title="VTV - VTC",VTC1
 https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
 http://media.kythuatvov.vn:1936/live/VTC1.HD/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-s%E1%BB%91-vtc1-99.html
@@ -86,7 +86,7 @@ http://data.xemtivihot.com/live/vtc/vtc10.php
 http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc11.php
 
-#EXTINF:-1 tvg-id="VTC12" tvg-name="VTC12" tvg-logo="https://i.postimg.cc/brJ4vQBz/image.png" group-title="VTV - VTC",VTC12
+#EXTINF:-1 tvg-id="VTC12" tvg-name="VTC12" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/vtc12.png?raw=true" group-title="VTV - VTC",VTC12
 http://data.xemtivihot.com/live/vtc/vtc12.php
 http://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC12/hlsv5/VTC12.m3u8
 
