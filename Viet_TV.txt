@@ -1,39 +1,39 @@
-#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png" group-title="VTV - VTC",VTV1
+#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png" group-title="VTV - VTC",VTV1
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
 http://data.xemtivihot.com/live/vtv/vtv1.php
 
-#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png" group-title="VTV - VTC",VTV2
+#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="https://i.postimg.cc/nzsVmkqR/vtv2hd.png" group-title="VTV - VTC",VTV2
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
 http://data.xemtivihot.com/live/vtv/vtv2.php
 
-#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV3.png" group-title="VTV - VTC",VTV3
+#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3" tvg-logo="https://i.postimg.cc/mkCbXgX7/vtv3hd.png" group-title="VTV - VTC",VTV3
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 http://data.xemtivihot.com/live/vtv/vtv3.php
 
-#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV4.png" group-title="VTV - VTC",VTV4
+#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-logo="https://i.postimg.cc/T3CTHS9N/vtv4hd.png" group-title="VTV - VTC",VTV4
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
 http://data.xemtivihot.com/live/vtv/vtv4.php
 
-#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV5.png" group-title="VTV - VTC",VTV5
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://i.postimg.cc/zGJJ75nR/vtv5hd.png" group-title="VTV - VTC",VTV5
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
 http://data.xemtivihot.com/live/vtv/vtv5.php
 
-#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV5.png" group-title="VTV - VTC",Tây Nam Bộ
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV5-TayNamBo.png/195px-VTV5-TayNamBo.png" group-title="VTV - VTC",Tây Nam Bộ
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-t%C3%A2y-nam-b%E1%BB%99-7.html
 
-#EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV6.png" group-title="VTV - VTC",VTV6
+#EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6" tvg-logo="https://i.postimg.cc/LXZR5sMG/vtv6hd.png" group-title="VTV - VTC",VTV6
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
 http://data.xemtivihot.com/live/vtv/vtv6.php
 
-#EXTINF:-1 tvg-id="VTV7" tvg-name="VTV7" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png" group-title="VTV - VTC",VTV7
+#EXTINF:-1 tvg-id="VTV7" tvg-name="VTV7" tvg-logo="https://i.postimg.cc/2yRYZfky/vtv7hd.png" group-title="VTV - VTC",VTV7
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html
 http://data.xemtivihot.com/live/vtv/vtv7.php
 
-#EXTINF:-1 tvg-id="VTV8" tvg-name="VTV8" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png" group-title="VTV - VTC",VTV8
+#EXTINF:-1 tvg-id="VTV8" tvg-name="VTV8" tvg-logo="https://i.postimg.cc/sDzyfyH0/vtv8hd.png" group-title="VTV - VTC",VTV8
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.html
 http://data.xemtivihot.com/live/vtv/vtv8.php
 
-#EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png" group-title="VTV - VTC",VTV9
+#EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-logo="https://i.postimg.cc/zXkNVM9D/vtv9hd.png" group-title="VTV - VTC",VTV9
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
 http://data.xemtivihot.com/live/vtv/vtv9.php
 
