@@ -325,7 +325,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-qu%E1%BA%A3ng-ninh
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://bacgiangtv.vn/templates/frontend/bgtv/Assets/img/logo.png" group-title="Địa Phương",Bắc Giang
 http://vncdn.mediatech.vn/bgtvlive/tv1live.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/eVKetgh.png" group-title="Địa Phương",Tuyên Quang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/tuyenquang.png?raw=true" group-title="Địa Phương",Tuyên Quang
 http://27.72.164.157:8080/hls/ttv.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://imagizer.imageshack.us/a/img921/2818/WVUsij.png" group-title="Địa Phương",Bắc Cạn
@@ -341,19 +341,19 @@ http://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://laocaitv.vn/lib/images/logo1.png" group-title="Địa Phương",Lào Cai
 http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/137__.png" group-title="Địa Phương",Lạng Sơn
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/311162-Lang-Son.png" group-title="Địa Phương",Lạng Sơn
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-l%E1%BA%A1ng-s%C6%A1n-137.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/143__.png" group-title="Địa Phương",Hải Dương
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%A3i-d%C6%B0%C6%A1ng-143.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/147__.png" group-title="Địa Phương",Phú Thọ
-https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=AViosKCbcSrpgkuAWPJR9A&e=1574888830
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PTV_HD.svg/1024px-PTV_HD.svg.png" group-title="Địa Phương",Phú Thọ
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=g4hu8yrcuNgjNijsU6eAKw&e=1575081013
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://i.imgur.com/tMaZaYl.png" group-title="Địa Phương",Hòa Bình
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/147__.png" group-title="Địa Phương",Vĩnh Phúc
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png" group-title="Địa Phương",Vĩnh Phúc
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-v%C4%A9nh-ph%C3%BAc-147.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh3.googleusercontent.com/9KnW573krR6PrqPkGSkXIiFn6TuDYs53VzP1SOaNCGpX1yrdF9Vn5ApM3TSb29uthQ=w150" group-title="Địa Phương",Hà Giang
@@ -363,16 +363,16 @@ http://118.107.68.17:1935/VTC/smil:Hagiang.smil/chunklist_w1461998919_b864000_sl
 http://113.160.198.111/Medias/HaNam/Playlist.m3u8
 http://vietcago.net/vstv/hanamtv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/147__.png" group-title="Địa Phương",Ninh Bình
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://nbtv.vn/common/v2/images/logo-footer.png" group-title="Địa Phương",Ninh Bình
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-ninh-b%C3%ACnh-183.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/IQv6jpF.png" group-title="Địa Phương",Cao Bằng
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/caobang.png?raw=true" group-title="Địa Phương",Cao Bằng
 http://118.107.68.17:1935/VTC/smil:Caobang.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/sswcYoX.png" group-title="Địa Phương",Điện Biên
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/dienbien.png?raw=true" group-title="Địa Phương",Điện Biên
 http://123.29.68.44/live.m3u8?c=vstv362&q=high&type=tv&token=yViOAU_IsATUCYun3BXKtg&time=1574930823&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1574844423907&pkg=pkg11
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/FEffTjz.jpg" group-title="Địa Phương",Hưng Yên (HYTV HD)
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/hungyen.png?raw=true" group-title="Địa Phương",Hưng Yên (HYTV HD)
 http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-h%C6%B0ng-y%C3%AAn-185.html
 
@@ -442,10 +442,10 @@ http://vietcago.net/vstv/gialaitv.m3u8
 http://118.69.161.10:8134/liveevent.m3u8
 http://vietcago.net/vstv/daklaktv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/0mIu5W2.png" group-title="Địa Phương",Lâm Đồng
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/969202-Lamdong.png" group-title="Địa Phương",Lâm Đồng
 http://118.107.68.17:1935/VTC/smil:Lamdong.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/asWKbFw.png" group-title="Địa Phương",Tiền Giang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/65/Logo_THTG.png" group-title="Địa Phương",Tiền Giang
 http://thtg.vn:8001/thtg.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://haugiangtivi.vn/public/Home/imghg/logohg.png" group-title="Địa Phương",Hậu Giang
