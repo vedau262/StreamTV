@@ -322,7 +322,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-h%E1
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/119__.png" group-title="Địa Phương",Quảng Ninh
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-qu%E1%BA%A3ng-ninh-119.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://bacgiangtv.vn/templates/frontend/bgtv/Assets/img/logo.png" group-title="Địa Phương",Bắc Giang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/bgtv-logo.png" group-title="Địa Phương",Bắc Giang
 http://vncdn.mediatech.vn/bgtvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/tuyenquang.png?raw=true" group-title="Địa Phương",Tuyên Quang
@@ -331,7 +331,7 @@ http://27.72.164.157:8080/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://imagizer.imageshack.us/a/img921/2818/WVUsij.png" group-title="Địa Phương",Bắc Cạn
 http://118.107.68.17:1935/VTC/smil:Backan.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://nextmedia.vn/wp-content/uploads/2019/07/bntv.png" group-title="Địa Phương",Bắc Ninh
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/bacninh.png?raw=true" group-title="Địa Phương",Bắc Ninh
 http://118.107.68.17:1935/VTC/smil:Bacninh.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo.png" group-title="Địa Phương",Yên Bái
@@ -448,7 +448,7 @@ http://118.107.68.17:1935/VTC/smil:Lamdong.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/65/Logo_THTG.png" group-title="Địa Phương",Tiền Giang
 http://thtg.vn:8001/thtg.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://haugiangtivi.vn/public/Home/imghg/logohg.png" group-title="Địa Phương",Hậu Giang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/431081-hau-giang.png" group-title="Địa Phương",Hậu Giang
 http://haugiangtv.e96bbe18.sabai.vn/hgtv/chunklist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%ADu-giang-117.html
 
@@ -491,7 +491,7 @@ http://live.cdn.mobifonetv.vn/motv/myangiang_hls.smil/chunklist_b1200000.m3u8
 http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
 http://vietcago.net/vstv/angiangtv1.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png" group-title="Địa Phương",Đồng Tháp
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/thdt-logo.png" group-title="Địa Phương",Đồng Tháp
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/chunks.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-%C4%90%E1%BB%93ng-th%C3%A1p-1-133.html
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w179815152.m3u8
@@ -508,7 +508,7 @@ http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
 http://hplusliveall.e96bbe18.sabai.vn/457e4d7a11d00a9d6a99b7177714ab761574862139/btv2-480/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.btv.org.vn:81/upload/vod/31102018/1540969994_29750147881_917ff525e0_m.jpg" group-title="Địa Phương",Bình Dương 3
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/btv3-logo.png" group-title="Địa Phương",Bình Dương 3
 http://hplusliveall.e96bbe18.sabai.vn/f2b91a26390afcae43a7bb2edc48683b1574862299/btv3-720/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/thtv-logo.png" group-title="Địa Phương",Trà Vinh
