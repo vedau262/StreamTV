@@ -18,7 +18,7 @@ http://data.xemtivihot.com/live/vtv/vtv4.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
 http://data.xemtivihot.com/live/vtv/vtv5.php
 
-#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/7__.png" group-title="VTV - VTC",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV5.png" group-title="VTV - VTC",Tây Nam Bộ
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-t%C3%A2y-nam-b%E1%BB%99-7.html
 
 #EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV6.png" group-title="VTV - VTC",VTV6
@@ -51,7 +51,7 @@ http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
 http://data.xemtivihot.com/live/vtc/vtc3.php
 https://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC3/hlsv5/VTC3.m3u8
 
-#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://i.postimg.cc/C53gbpwd/vtc4.png" group-title="VTV - VTC",VTC4 - Yeah1 Family
+#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://i.postimg.cc/C53gbpwd/vtc4.png" group-title="VTV - VTC",Yeah1 Family
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc4.php
 
@@ -63,7 +63,7 @@ https://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC5/hlsv5/VTC5.m3u8
 http://data.xemtivihot.com/live/vtc/vtc6.php
 https://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC6/hlsv5/VTC6.m3u8
 
-#EXTINF:-1 tvg-id="VTC7" tvg-name="VTC7" tvg-logo="https://i.postimg.cc/cJxNRmG7/vtc7.png" group-title="VTV - VTC",VTC7 - Today TV
+#EXTINF:-1 tvg-id="VTC7" tvg-name="VTC7" tvg-logo="https://i.postimg.cc/cJxNRmG7/vtc7.png" group-title="VTV - VTC",Today TV
 http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
 http://tw.101vn.com/resource/live/tpap.php?id=anhsaovtc7&c=411619115&type=rd&p.m3u8
 http://data.xemtivihot.com/live/vtc/vtc7.php
@@ -78,11 +78,11 @@ http://live.cdn.mobifonetv.vn/motv2/myletsviet_hls.smil/chunklist.m3u8
 http://cdn3.vtcplay.vn:1935/VTC/smil:VTC9.smil/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc9.php
 
-#EXTINF:-1 tvg-id="VTC10" tvg-name="VTC10" tvg-logo="http://103.56.158.185/tv_icon/antv.png" group-title="VTV - VTC",VTC10
+#EXTINF:-1 tvg-id="VTC10" tvg-name="VTC10" tvg-logo="https://i.postimg.cc/PfpNvt4X/vtc10.png" group-title="VTV - VTC",VTC10
 http://live.cdn.mobifonetv.vn/motv2/myvtc10_hls.smil/chunklist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc10.php
 
-#EXTINF:-1 tvg-id="VTC11" tvg-name="VTC11" tvg-logo="https://i.postimg.cc/Bt9rX5CK/vtc11.png" group-title="VTV - VTC",VTC11 - Kids and Family TV
+#EXTINF:-1 tvg-id="VTC11" tvg-name="VTC11" tvg-logo="https://i.postimg.cc/Bt9rX5CK/vtc11.png" group-title="VTV - VTC",Kids and Family
 http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc11.php
 
@@ -90,7 +90,7 @@ http://data.xemtivihot.com/live/vtc/vtc11.php
 http://data.xemtivihot.com/live/vtc/vtc12.php
 http://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC12/hlsv5/VTC12.m3u8
 
-#EXTINF:-1 tvg-id="VTC13" tvg-name="VTC13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwazJIAegueXX1iIViYcowZUwNeZPsJWSJN0bD1SeSTBtJnsOtWQ&s" group-title="VTV - VTC",VTC13
+#EXTINF:-1 tvg-id="VTC13" tvg-name="VTC13" tvg-logo="https://i.postimg.cc/kg95HWdG/vtc13.png" group-title="VTV - VTC",VTC13
 https://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC13/hlsv5/VTC13.m3u8
 
 #EXTINF:-1 tvg-id="VTC16" tvg-name="VTC16" tvg-logo="https://i.postimg.cc/43xxfZyT/vtc16.png" group-title="VTV - VTC",VTC16
@@ -130,40 +130,40 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8?
 http://vietcago.net/vstv/htv9.m3u8
 http://m1.xemtivitop.info/htv/htvc.php?id=2667&play.m3u8
 
-#EXTINF:-1 tvg-id="HTVC Thể Thao" tvg-name="HTVC Thể Thao" tvg-logo="https://i.postimg.cc/XqT2sVGS/htvthethao.png" group-title="HTV - SCTV",HTVC Thể Thao
+#EXTINF:-1 tvg-id="HTVC Thể Thao" tvg-name="HTVC Thể Thao" tvg-logo="https://i.postimg.cc/XqT2sVGS/htvthethao.png" group-title="HTV - SCTV",HTV Thể Thao
 http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8?
 http://m1.xemtivitop.info/htv/htvc.php?id=4009&play.m3u8
 http://vietcago.net/vstv/htvthethao.m3u8
 
-#EXTINF:-1 tvg-id="HTVC Thuần Việt" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.postimg.cc/Kz8szpSV/htvcthuanviet.png" group-title="HTV - SCTV",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="HTVC Thuần Việt" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.postimg.cc/Kz8szpSV/htvcthuanviet.png" group-title="HTV - SCTV",HTV Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 http://next.xemtiviso.net/next.php?id=htvc-thuanviet
 http://www.xemtivionline.net/ok/next.php?id=htvc-thuanviet
 
-#EXTINF:-1 tvg-id="HTVC Phim" tvg-name="HTVC Phim" tvg-logo="https://i.postimg.cc/g237B6HM/htvcphim-hd.png" group-title="HTV - SCTV",HTVC Phim
+#EXTINF:-1 tvg-id="HTVC Phim" tvg-name="HTVC Phim" tvg-logo="https://i.postimg.cc/g237B6HM/htvcphim-hd.png" group-title="HTV - SCTV",HTV Phim
 http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8
 http://vietcago.net/vstv/htvcphim.m3u8
 http://next.xemtiviso.net/next.php?id=htvc-phimhd
 
-#EXTINF:-1 tvg-id="HTVC Ca Nhạc" tvg-name="HTVC Ca Nhạc" tvg-logo="https://i.postimg.cc/B6j4YLxw/htvccanhac-hd.png" group-title="HTV - SCTV",HTVC Ca Nhạc
+#EXTINF:-1 tvg-id="HTVC Ca Nhạc" tvg-name="HTVC Ca Nhạc" tvg-logo="https://i.postimg.cc/B6j4YLxw/htvccanhac-hd.png" group-title="HTV - SCTV",HTV Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvccanhac.m3u8
 http://next.xemtiviso.net/next.php?id=htvc-canhac
 
-#EXTINF:-1 tvg-id="HTVC Du lịch" tvg-name="HTVC Du lịch" tvg-logo="https://i.postimg.cc/hGyK1b7d/htvcdulich-hd.png" group-title="HTV - SCTV",HTVC Du lịch
+#EXTINF:-1 tvg-id="HTVC Du lịch" tvg-name="HTVC Du lịch" tvg-logo="https://i.postimg.cc/hGyK1b7d/htvcdulich-hd.png" group-title="HTV - SCTV",HTV Du lịch
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="HTVC Gia Đình" tvg-name="HTVC Gia Đình" tvg-logo="https://i.postimg.cc/T3m8MsfJ/htv7.png" group-title="HTV - SCTV",HTVC Gia Đình
+#EXTINF:-1 tvg-id="HTVC Gia Đình" tvg-name="HTVC Gia Đình" tvg-logo="https://i.postimg.cc/T3m8MsfJ/htv7.png" group-title="HTV - SCTV",HTV Gia Đình
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvcgiadinh.m3u8
 
-#EXTINF:-1 tvg-id="HTVC Phụ Nữ" tvg-name="HTVC Phụ Nữ" tvg-logo="https://i.postimg.cc/gJ1dfzsc/htvcphunu-hd.png" group-title="HTV - SCTV",HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="HTVC Phụ Nữ" tvg-name="HTVC Phụ Nữ" tvg-logo="https://i.postimg.cc/gJ1dfzsc/htvcphunu-hd.png" group-title="HTV - SCTV",HTV Phụ Nữ
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvcphunu.m3u8
@@ -174,7 +174,7 @@ http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="HTVC+ (HD)" tvg-name="HTVC+ (HD)" tvg-logo="https://i.postimg.cc/1X6PSk7G/htvc.png" group-title="HTV - SCTV",HTVC+ (HD)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HTVC Shopping" tvg-name="HTVC Shopping" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-04-10/6210937-home-sopping-01.png" group-title="HTV - SCTV",HTVC Shopping
+#EXTINF:-1 tvg-id="HTVC Shopping" tvg-name="HTVC Shopping" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-04-10/6210937-home-sopping-01.png" group-title="HTV - SCTV",HTV Shopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://i.postimg.cc/mr8Hb8St/cartoonnetwork-hd.png" group-title="Quốc Tế",CARTOON NETWORK HD
