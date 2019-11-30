@@ -190,7 +190,7 @@ https://usher.ttvnw.net/api/channel/hls/tivi8k.m3u8?allow_source=true&baking_bre
 http://45.122.223.98/ok.php?id=1096015027932&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilUbzFOdw==&play.m3u8
 https://ok.ru/videoembed/1096015027932
 
-#EXTINF:-1, tvg-id="Fox Family Movies HD-ClipTV" tvg-logo="https://i.postimg.cc/90pMpfNz/foxfamilymovies-hd.png" tvg-name="FOX Family Movies (HD)"  group-title="Quốc Tế",FOX Family Movies (HD)
+#EXTINF:-1, tvg-id="Fox Family Movies HD-ClipTV" tvg-logo="https://i.postimg.cc/90pMpfNz/foxfamilymovies-hd.png" tvg-name="FOX Family Movies (HD)"  group-title="Quốc Tế",FOX Family MV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
 
 #EXTINF:-1, tvg-id="FOX" tvg-logo="https://i.postimg.cc/LXjhJDtt/fox-hd.png" tvg-name="FOX (HD)"  group-title="Quốc Tế",FOX (HD)
@@ -199,25 +199,25 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/V6Rww0Nj/500px-Trace-Urban-logo-2010-svg.png" tvg-name=""  group-title="Quốc Tế",Trace Urban (HD)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 
-#EXTINF:-1, tvg-id="FASHION TV" tvg-logo="https://i.postimg.cc/cJpr12n1/fashiontv-hd.png" tvg-name="Fashion TV (HD)"  group-title="Quốc Tế",Fashion TV (HD)
+#EXTINF:-1, tvg-id="FASHION TV" tvg-logo="https://i.postimg.cc/cJpr12n1/fashiontv-hd.png" tvg-name="Fashion TV (HD)"  group-title="Quốc Tế",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Channel V HD-ClipTV" tvg-logo="https://i.postimg.cc/wxsQVYV2/channelv-hd.png" tvg-name="Channel V HD"  group-title="Quốc Tế",Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8?
 
-#EXTINF:-1, tvg-id="Asian Food Channel" tvg-logo="https://i.postimg.cc/nczwZPYQ/asianfoodchannel-hd.png" tvg-name="Asian Food Channel (HD)"  group-title="Quốc Tế",Asian Food Channel (HD)
+#EXTINF:-1, tvg-id="Asian Food Channel" tvg-logo="https://i.postimg.cc/nczwZPYQ/asianfoodchannel-hd.png" tvg-name="Asian Food Channel (HD)"  group-title="Quốc Tế",Asian Food
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?
 
-#EXTINF:-1, tvg-id="Animal Planet-ClipTV" tvg-logo="https://i.postimg.cc/HnSZXwHx/animalplanet-hd.png" tvg-name="Animal Planet (HD)"  group-title="Quốc Tế",Animal Planet (HD)
+#EXTINF:-1, tvg-id="Animal Planet-ClipTV" tvg-logo="https://i.postimg.cc/HnSZXwHx/animalplanet-hd.png" tvg-name="Animal Planet (HD)"  group-title="Quốc Tế",Animal Planet
 http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/V6JBpxcY/channelnewsasia-hd.png" tvg-name="CNA (HD)"  group-title="Quốc Tế",CNA (HD)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1, tvg-id="NHK World" tvg-logo="https://i.postimg.cc/FsppfgGX/nhkworld-hd.png" tvg-name="NHK World Japan (HD)"  group-title="Quốc Tế",NHK World Japan (HD)
+#EXTINF:-1, tvg-id="NHK World" tvg-logo="https://i.postimg.cc/FsppfgGX/nhkworld-hd.png" tvg-name="NHK World Japan (HD)"  group-title="Quốc Tế",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
-#EXTINF:-1, tvg-id="Arirang" tvg-logo="https://i.postimg.cc/HW3Pqg5g/arirang.png" tvg-name="Arirang (HD)"  group-title="Quốc Tế",Arirang (HD)
+#EXTINF:-1, tvg-id="Arirang" tvg-logo="https://i.postimg.cc/HW3Pqg5g/arirang.png" tvg-name="Arirang (HD)"  group-title="Quốc Tế",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="France 24-ClipTV" tvg-logo="https://i.postimg.cc/Y9BCBF5h/france24.png" tvg-name="France 24 (HD)"  group-title="Quốc Tế",France 24 (HD)
