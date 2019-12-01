@@ -348,7 +348,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-l%E1
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%A3i-d%C6%B0%C6%A1ng-143.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PTV_HD.svg/1024px-PTV_HD.svg.png" group-title="Địa Phương",Phú Thọ
-https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=th53eA915_-G-KfDiwOP8g&e=1575132484
+https://phuthotv.vn
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://i.imgur.com/tMaZaYl.png" group-title="Địa Phương",Hòa Bình
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
