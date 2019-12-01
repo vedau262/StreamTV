@@ -519,10 +519,6 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-th-b%C3%ACnh-d%C6%B0%C6%A1ng-1-179.html
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png" group-title="Địa Phương",Bình Dương 2
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
-http://hplusliveall.e96bbe18.sabai.vn/457e4d7a11d00a9d6a99b7177714ab761574862139/btv2-480/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/btv3-logo.png" group-title="Địa Phương",Bình Dương 3
-http://hplusliveall.e96bbe18.sabai.vn/f2b91a26390afcae43a7bb2edc48683b1574862299/btv3-720/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/thtv-logo.png" group-title="Địa Phương",Trà Vinh
 http://travinhlive.07b99c25.cdnviet.com/travinhtv/playlist.m3u8
