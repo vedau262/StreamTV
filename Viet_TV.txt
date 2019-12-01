@@ -581,8 +581,5 @@ https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://i.imgur.com/ENvLdTj.png" group-title="Kênh Khác",Công Giáo TV
 http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://media.cdnandroid.com/5c/4b/04/7a/a1/imagen-stv-play-for-smart-tv-free-online-tv-app-0thumb.jpg" tvg-country="VN" tvg-url="" group-title="Kênh Khác",Việt Mỹ TV
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWvr1HiGrxxgrjVmR4nfBfDDv_uviG6Cq3pOhfBN4ZVgOH-i&s" tvg-country="VN" tvg-url="" group-title="Kênh Khác",Việt News TV
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
