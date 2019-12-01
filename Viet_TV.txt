@@ -350,11 +350,14 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%A3i-d%C6%B
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PTV_HD.svg/1024px-PTV_HD.svg.png" group-title="Địa Phương",Phú Thọ
 https://phuthotv.vn
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PTV_HD.svg/1024px-PTV_HD.svg.png" group-title="Địa Phương",Phú Thọ
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620190504215412" group-title="Địa Phương",Thái NGuyên
 http://thainguyentv.vn/hls/livestream8.ts
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://i.imgur.com/tMaZaYl.png" group-title="Địa Phương",Hòa Bình
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upsieutoc.com/images/2019/02/19/sonla.png" group-title="Địa Phương",Sơn La
+http://118.107.68.17:1935/VTC/smil:SonlaTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png" group-title="Địa Phương",Vĩnh Phúc
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-v%C4%A9nh-ph%C3%BAc-147.html
@@ -455,9 +458,16 @@ http://thtg.vn:8001/thtg.m3u8
 http://haugiangtv.e96bbe18.sabai.vn/hgtv/chunklist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%ADu-giang-117.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/OQYQMR5GNS.png" group-title="Địa Phương",Đồng Nai 1
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://www.upsieutoc.com/images/2019/02/19/dongnai1.png" group-title="Địa Phương",Đồng Nai 1
 http://live.cdn.mobifonetv.vn/motv/mydongnai1_hls.smil/chunklist_b1200000.m3u8
+http://118.107.68.17:1935/VTC/smil:Dongnai1.smil/playlist.m3u8
 http://118.107.68.17:1935/VTC/smil:Dongnai1.smil/chunklist_w1672446265_b864000_slVIE.m3u8
+https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-%C4%90%E1%BB%93ng-nai-1-113.html
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://www.upsieutoc.com/images/2019/02/19/dongnai2.png" group-title="Địa Phương",Đồng Nai 2
+https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-%C4%90%E1%BB%93ng-nai-2-115.html
+http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/playlist.m3u8
+http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/chunklist_w1652476033_b864000_slVIE.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/kg-logo.png" group-title="Địa Phương",Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
