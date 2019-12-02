@@ -157,7 +157,7 @@ http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvccanhac.m3u8
 http://next.xemtiviso.net/next.php?id=htvc-canhac
 
-#EXTINF:-1 tvg-id="HTVC Du lịch" tvg-name="HTVC Du lịch" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/305526-dulich.png" group-title="HTV - SCTV",HTV Du lịch
+#EXTINF:-1 tvg-id="HTVC Du lịch" tvg-name="HTVC Du lịch" tvg-logo="https://lammaixepluonsong.files.wordpress.com/2015/06/429bf-htvcdulich.png?w=700" group-title="HTV - SCTV",HTV Du lịch
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
 
