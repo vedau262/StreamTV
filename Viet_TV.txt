@@ -145,28 +145,28 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u
 http://next.xemtiviso.net/next.php?id=htvc-thuanviet
 http://www.xemtivionline.net/ok/next.php?id=htvc-thuanviet
 
-#EXTINF:-1 tvg-id="HTVC Phim" tvg-name="HTVC Phim" tvg-logo="https://i.postimg.cc/g237B6HM/htvcphim-hd.png" group-title="HTV - SCTV",HTV Phim
+#EXTINF:-1 tvg-id="HTVC Phim" tvg-name="HTVC Phim" tvg-logo="http://tivis.101vn.com/images/htvphim.png" group-title="HTV - SCTV",HTV Phim
 http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8
 http://vietcago.net/vstv/htvcphim.m3u8
 http://next.xemtiviso.net/next.php?id=htvc-phimhd
 
-#EXTINF:-1 tvg-id="HTVC Ca Nhạc" tvg-name="HTVC Ca Nhạc" tvg-logo="https://i.postimg.cc/B6j4YLxw/htvccanhac-hd.png" group-title="HTV - SCTV",HTV Ca Nhạc
+#EXTINF:-1 tvg-id="HTVC Ca Nhạc" tvg-name="HTVC Ca Nhạc" tvg-logo="http://htvc.vn/uploads/editor/images/Ca%20nhac-01.png" group-title="HTV - SCTV",HTV Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvccanhac.m3u8
 http://next.xemtiviso.net/next.php?id=htvc-canhac
 
-#EXTINF:-1 tvg-id="HTVC Du lịch" tvg-name="HTVC Du lịch" tvg-logo="https://i.postimg.cc/hGyK1b7d/htvcdulich-hd.png" group-title="HTV - SCTV",HTV Du lịch
+#EXTINF:-1 tvg-id="HTVC Du lịch" tvg-name="HTVC Du lịch" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/305526-dulich.png" group-title="HTV - SCTV",HTV Du lịch
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="HTVC Gia Đình" tvg-name="HTVC Gia Đình" tvg-logo="https://i.postimg.cc/T3m8MsfJ/htv7.png" group-title="HTV - SCTV",HTV Gia Đình
+#EXTINF:-1 tvg-id="HTVC Gia Đình" tvg-name="HTVC Gia Đình" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/866192-Gia-Dinh.png" group-title="HTV - SCTV",HTV Gia Đình
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvcgiadinh.m3u8
 
-#EXTINF:-1 tvg-id="HTVC Phụ Nữ" tvg-name="HTVC Phụ Nữ" tvg-logo="https://i.postimg.cc/gJ1dfzsc/htvcphunu-hd.png" group-title="HTV - SCTV",HTV Phụ Nữ
+#EXTINF:-1 tvg-id="HTVC Phụ Nữ" tvg-name="HTVC Phụ Nữ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/143922-pn.png" group-title="HTV - SCTV",HTV Phụ Nữ
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvcphunu.m3u8
