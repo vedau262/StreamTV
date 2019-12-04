@@ -560,7 +560,7 @@ http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
 https://5952e4052a2e8.streamlock.net/live/truyenhinhnhandan720/chunklist_w1220145704.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://vovdulich.vn/templates/frontend/vovtv/Assets/img/logo.png" group-title="Kênh Khác",VOV Vietnam Journey
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://vovdulich.vn/templates/frontend/vovtv/Assets/img/logo.png" group-title="Kênh Khác",Vietnam Journey
 http://vncdn.mediatech.vn/vovlive/tv1live.m3u8
 http://vncdn.mediatech.vn/vovlive/tv1live_manifest.m3u8
 
@@ -576,7 +576,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-haytv-196.html
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://pbs.twimg.com/profile_images/758287544010276865/zHC_zJir_400x400.jpg" group-title="Kênh Khác",IBC TV
 http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/prg-image/logo-vtvcab11-vgs-shop.png" group-title="Kênh Khác",VTVcab11 - VGS Shop
+#EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/prg-image/logo-vtvcab11-vgs-shop.png" group-title="Kênh Khác",VGS Shop
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://i.imgur.com/ENvLdTj.png" group-title="Kênh Khác",Công Giáo TV
