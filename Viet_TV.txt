@@ -142,14 +142,16 @@ http://vietcago.net/vstv/htvthethao.m3u8
 #EXTINF:-1 tvg-id="HTVC Thuần Việt" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.postimg.cc/Kz8szpSV/htvcthuanviet.png" group-title="HTV - SCTV",HTV Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
-http://next.xemtiviso.net/next.php?id=htvc-thuanviet
 http://www.xemtivionline.net/ok/next.php?id=htvc-thuanviet
+
+#EXTINF:-1 tvg-id="HTVC Thuần Việt" tvg-name="HTVC Thuần Việt" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/136820-ThuanVietHD1.png" group-title="HTV - SCTV",HTV Thuần Việt HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="HTVC Phim" tvg-name="HTVC Phim" tvg-logo="http://tivis.101vn.com/images/htvphim.png" group-title="HTV - SCTV",HTV Phim
 http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8
 http://vietcago.net/vstv/htvcphim.m3u8
-http://next.xemtiviso.net/next.php?id=htvc-phimhd
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="HTVC Ca Nhạc" tvg-name="HTVC Ca Nhạc" tvg-logo="http://htvc.vn/uploads/editor/images/Ca%20nhac-01.png" group-title="HTV - SCTV",HTV Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
@@ -368,7 +370,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-v%C4%A9nh-ph%C3%BA
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh3.googleusercontent.com/9KnW573krR6PrqPkGSkXIiFn6TuDYs53VzP1SOaNCGpX1yrdF9Vn5ApM3TSb29uthQ=w150" group-title="Địa Phương",Hà Giang
 http://118.107.68.17:1935/VTC/smil:Hagiang.smil/chunklist_w1461998919_b864000_slVIE.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Địa Phương",Hà Nam
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png" group-title="Địa Phương",Hà Nam
 http://113.160.198.111/Medias/HaNam/Playlist.m3u8
 http://vietcago.net/vstv/hanamtv.m3u8
 
