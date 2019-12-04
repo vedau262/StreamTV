@@ -410,12 +410,12 @@ http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/127__.png" group-title="Địa Phương",Huế
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-t%E1%BB%89nh-th%E1%BB%ABa-thi%C3%AAn-hu%E1%BA%BF-127.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://www.drt.danang.vn/images/drt1.png" group-title="Địa Phương",Đà Nẵng 1
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png" group-title="Địa Phương",Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://vietcago.net/vstv/danangtv1.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-%C4%90%C3%A0-n%E1%BA%B5ng-1-175.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://www.drt.danang.vn/images/drt2.png" group-title="Địa Phương",Đà Nẵng 2
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png" group-title="Địa Phương",Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 http://vietcago.net/vstv/danangtv2.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-%C4%90%C3%A0-n%E1%BA%B5ng-2-177.html
@@ -432,7 +432,7 @@ http://210.245.20.94/hls/ktv1.m3u8
 http://vietcago.net/vstv/khanhhoatv.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-kh%C3%A1nh-h%C3%B2a-125.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/Eb8zguH.png" group-title="Địa Phương",Bình Thuận
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/707779-Binh-Thuan.png" group-title="Địa Phương",Bình Thuận
 http://202.43.109.142:1935/thbttv/bttv/chunklist_w1829470998.m3u8
 http://202.43.109.142:1935/thbttv/bttv/playlist.m3u8
 http://202.43.109.142:1935/thbttv/bttv/chunklist_w1082490967.m3u8
@@ -449,7 +449,7 @@ http://www.vietcago.net/vstv/kontumtv.m3u8
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 http://vietcago.net/vstv/gialaitv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/bang-gia-quang-cao-truyen-hinh-daklak.png" group-title="Địa Phương",DakLak
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/684797-DRT.png" group-title="Địa Phương",Đắc Lắc
 http://118.69.161.10:8134/liveevent.m3u8
 http://vietcago.net/vstv/daklaktv.m3u8
 
@@ -482,7 +482,7 @@ http://vietcago.net/vstv/kiengiangtv.m3u8
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 http://vietcago.net/vstv/kiengiangtv1.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png" group-title="Địa Phương",Long An
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/09/852099-long-an.png" group-title="Địa Phương",Long An
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 http://vietcago.net/vstv/longantv.m3u8
 
@@ -504,7 +504,7 @@ http://vietcago.net/vstv/bentretv.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://atv.org.vn/lib/images/atv-tv.png" group-title="Địa Phương",An Giang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/06/635447-Angiang.png" group-title="Địa Phương",An Giang
 http://live.cdn.mobifonetv.vn/motv/myangiang_hls.smil/chunklist_b1200000.m3u8
 http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
 http://vietcago.net/vstv/angiangtv1.m3u8
