@@ -317,18 +317,6 @@ http://45.126.83.51/uq2663/h/h05/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/j2kZpVJ3/image.png" tvg-name="TV5 Monde Style"  group-title="ERROR",TV5 Monde Style
 http://45.126.83.51/uq2663/h/h01/index.m3u8
 
-#EXTINF:-1 tvg-id="THVL1" tvg-name="THVL1" tvg-logo="https://i.postimg.cc/DyRZPRxr/thvl1.png" group-title="Địa Phương",Vĩnh Long 1
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8?
-http://118.107.68.10:1935/live/VinhLong1HD_800K/playlist.m3u8
-https://vtvgo.vn/xem-truc-tuyen-kenh-k%C3%AAnh-1-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-v%C4%A9nh-long-131.html
-http://next.xemtiviso.net/next.php?id=vinhlong1
-
-#EXTINF:-1 tvg-id="THVL2" tvg-name="THVL2" tvg-logo="https://i.postimg.cc/1XjzTdsZ/thvl2.png" group-title="Địa Phương",Vĩnh Long 2
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
-http://cdn3.vtcplay.vn:1935/VTC/VinhLong2HD113_1200K/playlist.m3u8
-http://www.xemtivionline.net/ok/next.php?id=vinhlong2
-http://next.xemtiviso.net/next.php?id=vinhlong2
-
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/FzsmhVDs/hanoi1hd.png" group-title="Địa Phương",Hà Nội 1
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-h%C3%A0-n%E1%BB%99i-1-91.html
@@ -404,8 +392,9 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-th-ninh-b%C3%ACnh-183.html
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/caobang.png?raw=true" group-title="Địa Phương",Cao Bằng
 http://118.107.68.17:1935/VTC/smil:Caobang.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/dienbien.png?raw=true" group-title="Địa Phương",Điện Biên
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/dienbien.png?raw=true" group-title="ERROR",Điện Biên
 http://123.29.68.44/live.m3u8?c=vstv362&q=high&type=tv&token=yViOAU_IsATUCYun3BXKtg&time=1574930823&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1574844423907&pkg=pkg11
+http://123.29.68.44/live.m3u8?c=vstv362&q=high&type=tv&token=k80VDGyRET3BZ3vtBpGo8g&time=1575857951&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1575771551098&pkg=pkg11
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/hungyen.png?raw=true" group-title="Địa Phương",Hưng Yên
 http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
@@ -486,6 +475,18 @@ http://thtg.vn:8001/thtg.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/431081-hau-giang.png" group-title="Địa Phương",Hậu Giang
 http://haugiangtv.e96bbe18.sabai.vn/hgtv/chunklist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%ADu-giang-117.html
+
+#EXTINF:-1 tvg-id="THVL1" tvg-name="THVL1" tvg-logo="https://i.postimg.cc/DyRZPRxr/thvl1.png" group-title="Địa Phương",Vĩnh Long 1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8?
+http://118.107.68.10:1935/live/VinhLong1HD_800K/playlist.m3u8
+https://vtvgo.vn/xem-truc-tuyen-kenh-k%C3%AAnh-1-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-v%C4%A9nh-long-131.html
+http://next.xemtiviso.net/next.php?id=vinhlong1
+
+#EXTINF:-1 tvg-id="THVL2" tvg-name="THVL2" tvg-logo="https://i.postimg.cc/1XjzTdsZ/thvl2.png" group-title="Địa Phương",Vĩnh Long 2
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
+http://cdn3.vtcplay.vn:1935/VTC/VinhLong2HD113_1200K/playlist.m3u8
+http://www.xemtivionline.net/ok/next.php?id=vinhlong2
+http://next.xemtiviso.net/next.php?id=vinhlong2
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://www.upsieutoc.com/images/2019/02/19/dongnai1.png" group-title="Địa Phương",Đồng Nai 1
 http://live.cdn.mobifonetv.vn/motv/mydongnai1_hls.smil/chunklist_b1200000.m3u8
