@@ -1,6 +1,6 @@
 {
-	"s_load_admob_first":"true",
-	"s_had_admob_when_play_video":"true",
+	"is_server_maintenance":"true",
+	"s_load_admob_first":"true",	
 	"s_had_admob_banner":"true",
 	"s_had_admob_interstitial":"true",
 	"s_had_admob_native":"false",
