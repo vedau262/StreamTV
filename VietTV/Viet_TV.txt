@@ -1,5 +1,4 @@
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png" group-title="VTV - VTC",VTV1
-https://archive.org/download/toidatrongcoimotngoinhama/T%C3%B4i%20%C4%90%C3%A3%20Tr%C3%B4ng%20Coi%20M%E1%BB%99t%20Ng%C3%B4i%20Nh%C3%A0%20Ma%20-%20MC%20%C4%90%C3%ACnh%20So%E1%BA%A1n.mp3
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
 http://data.xemtivihot.com/live/vtv/vtv1.php
 http://xemtivi.online/live/vtv1/index.m3u8
