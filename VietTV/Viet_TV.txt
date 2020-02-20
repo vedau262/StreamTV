@@ -124,43 +124,43 @@ http://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC16/hlsv5/VTC16.m3u8
 https://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC16/hlsv5/VTC16-avc1_2395600=3.m3u8
 
 #EXTINF:-1 tvg-id="HTV1" tvg-name="HTV1" tvg-logo="https://i.postimg.cc/PqkgtMqs/htv1.png" group-title="HTV - SCTV",HTV1
+http://m1.xemtivitop.info/htv/htvc.php?id=2631&play.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8
 http://vietcago.net/vstv/htv1.m3u8
-http://m1.xemtivitop.info/htv/htvc.php?id=2631&play.m3u8
 
 #EXTINF:-1 tvg-id="HTV2" tvg-name="HTV2" tvg-logo="https://i.postimg.cc/MKgkLw2G/htv2.png" group-title="HTV - SCTV",HTV2
-http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/playlist.m3u8
-http://vietcago.net/vstv/htv2.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 http://m1.xemtivitop.info/htv/htvc.php?id=2669&play.m3u8
+http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/playlist.m3u8
+http://vietcago.net/vstv/htv2.m3u8
 
 #EXTINF:-1 tvg-id="HTV3" tvg-name="HTV3" tvg-logo="https://i.postimg.cc/vBYCnH90/htv3.png" group-title="HTV - SCTV",HTV3
-http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
 http://m1.xemtivitop.info/htv/htvc.php?id=2535&play.m3u8
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
 http://vietcago.net/vstv/htv3.m3u8
 
-#EXTINF:-1 tvg-id="HTV4" tvg-name="HTV4" tvg-logo="https://i.postimg.cc/wMtf5tBQ/htvkey.png" group-title="HTV - SCTV",HTV4
-http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV4" tvg-name="HTV4" tvg-logo="https://i.postimg.cc/wMtf5tBQ/htvkey.png" group-title="HTV - SCTV",HTV KEY
 http://m1.xemtivitop.info/htv/htvc.php?id=2528&play.m3u8
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8
 http://vietcago.net/vstv/htv4.m3u8
 
 #EXTINF:-1 tvg-id="HTV7" tvg-name="HTV7" tvg-logo="https://i.postimg.cc/T3m8MsfJ/htv7.png" group-title="HTV - SCTV",HTV7
-http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8
 http://m1.xemtivitop.info/htv/htvc.php?id=256&play.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 http://vietcago.net/vstv/htv7.m3u8
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HTV9" tvg-name="HTV9" tvg-logo="https://i.postimg.cc/1tv2rhrs/htv9.png" group-title="HTV - SCTV",HTV9
-http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8?
-http://vietcago.net/vstv/htv9.m3u8
 http://m1.xemtivitop.info/htv/htvc.php?id=2667&play.m3u8
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8
+http://vietcago.net/vstv/htv9.m3u8
 
 #EXTINF:-1 tvg-id="HTVC Thể Thao" tvg-name="HTVC Thể Thao" tvg-logo="https://i.postimg.cc/XqT2sVGS/htvthethao.png" group-title="HTV - SCTV",HTV Thể Thao
-http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8?
 http://m1.xemtivitop.info/htv/htvc.php?id=4009&play.m3u8
 http://vietcago.net/vstv/htvthethao.m3u8
+http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="HTVC Thuần Việt" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.postimg.cc/Kz8szpSV/htvcthuanviet.png" group-title="HTV - SCTV",HTV Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
@@ -171,10 +171,10 @@ http://www.xemtivionline.net/ok/next.php?id=htvc-thuanviet
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="HTVC Phim" tvg-name="HTVC Phim" tvg-logo="http://tivis.101vn.com/images/htvphim.png" group-title="HTV - SCTV",HTV Phim
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8?
 http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8
 http://vietcago.net/vstv/htvcphim.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="HTVC Ca Nhạc" tvg-name="HTVC Ca Nhạc" tvg-logo="http://htvc.vn/uploads/editor/images/Ca%20nhac-01.png" group-title="HTV - SCTV",HTV Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
@@ -195,9 +195,6 @@ http://vietcago.net/vstv/htvcgiadinh.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
 http://vietcago.net/vstv/htvcphunu.m3u8
-
-#EXTINF:-1 tvg-id="HTV KEY" tvg-name="HTV KEY" tvg-logo="https://i.postimg.cc/wMtf5tBQ/htvkey.png" group-title="HTV - SCTV",HTV KEY
-http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="HTVC+ (HD)" tvg-name="HTVC+ (HD)" tvg-logo="https://i.postimg.cc/1X6PSk7G/htvc.png" group-title="HTV - SCTV",HTVC+ (HD)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
