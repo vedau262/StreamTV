@@ -254,7 +254,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/9F4S8DLs/cbsn.png" tvg-name="CBSN (HD)"  group-title="Quốc Tế",CBSN (HD)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1, tvg-id="BBC World News" tvg-logo="https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1" tvg-name="BBC World News"  group-title="Quốc Tế",BBC World News
+#EXTINF:-1, tvg-id="BBC World News" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/bbc-world-news-logo-png-4.png" tvg-name="BBC World News"  group-title="Quốc Tế",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 
 #EXTINF:-1, tvg-id="CNN_VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" tvg-name="CNN"  group-title="Quốc Tế",CNN
