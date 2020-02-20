@@ -266,10 +266,10 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1, tvg-id="AD Sport 2 HD" tvg-logo="https://i.imgur.com/kiRDDPC.png" tvg-name="CNN"  group-title="ERROR",AD Sport 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/C11nCpwH/setanta.png" tvg-name="Setanta Sports 1"  group-title="Quốc Tế",Setanta Sports 1
+#EXTINF:-1, tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/-Kx8cSr5W3hxBSSeX_ApISDIRjns1LFagvUQRfHq13bnTEffTmgiN6DD0FIVvi3qozZaRSAFCK9CUQ702FAYg2UfWU5D6PcVx3o" tvg-name="Setanta Sports 1"  group-title="Quốc Tế",Setanta Sports 1
 http://ott-cdn.ucom.am/s81/index.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/C11nCpwH/setanta.png" tvg-name="Setanta Sports 2"  group-title="Quốc Tế",Setanta Sports 2
+#EXTINF:-1, tvg-id="" tvg-logo="https://lh6.googleusercontent.com/proxy/9MHSRX0M9f409PShiSEmxPPNG-WzyZLej1mGN0gS8wCb8onwOl8rZaiz0cKjWs3dgrxQyZ9frrmhQ5mn6kIhsIIOAPaCX7Lh9z2OG2LHa8ajxK2oIw" tvg-name="Setanta Sports 2"  group-title="Quốc Tế",Setanta Sports 2
 http://ott-cdn.ucom.am/s82/index.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/N0QdcFxs/cgtn.png" tvg-name="CGTN"  group-title="Quốc Tế",CGTN
