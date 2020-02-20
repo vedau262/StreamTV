@@ -239,8 +239,8 @@ http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" tvg-name="CNA (HD)"  group-title="Quốc Tế",CNA (HD)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1, tvg-id="NHK World" tvg-logo="http://tvepg.eu/img/germany/logo/nhk_world_japan.png" tvg-name="NHK World Japan (HD)"  group-title="Quốc Tế",NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1, tvg-id="NHK World" tvg-logo="https://i.pinimg.com/originals/52/94/72/52947222fdd4629ad15f5a463ccf426a.png" tvg-name="NHK World Japan (HD)"  group-title="Quốc Tế",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index.m3u8
 
 #EXTINF:-1, tvg-id="Arirang" tvg-logo="https://i.postimg.cc/HW3Pqg5g/arirang.png" tvg-name="Arirang (HD)"  group-title="Quốc Tế",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -252,18 +252,18 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/9F4S8DLs/cbsn.png" tvg-name="CBSN (HD)"  group-title="Quốc Tế",CBSN (HD)
-https://cbsnhls-i.akamaihd.net/hls/live/264710-b/cbsn_hlsprod_2/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1, tvg-id="BBC World News" tvg-logo="https://i.postimg.cc/zBzF7yxR/bbcworldnews.png" tvg-name="BBC World News"  group-title="Quốc Tế",BBC World News
+#EXTINF:-1, tvg-id="BBC World News" tvg-logo="https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1" tvg-name="BBC World News"  group-title="Quốc Tế",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 
-#EXTINF:-1, tvg-id="CNN_VTVCab" tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" tvg-name="CNN"  group-title="Quốc Tế",CNN
+#EXTINF:-1, tvg-id="CNN_VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" tvg-name="CNN"  group-title="Quốc Tế",CNN
 http://ott-cdn.ucom.am/s27/index.m3u8
 
-#EXTINF:-1, tvg-id="AD Sport 1 HD" tvg-logo="https://i.imgur.com/NSQgKH4.png" tvg-name="CNN"  group-title="Quốc Tế",AD Sport 1 HD
+#EXTINF:-1, tvg-id="AD Sport 1 HD" tvg-logo="https://i.imgur.com/NSQgKH4.png" tvg-name="CNN"  group-title="ERROR",AD Sport 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
-#EXTINF:-1, tvg-id="AD Sport 2 HD" tvg-logo="https://i.imgur.com/kiRDDPC.png" tvg-name="CNN"  group-title="Quốc Tế",AD Sport 2 HD
+#EXTINF:-1, tvg-id="AD Sport 2 HD" tvg-logo="https://i.imgur.com/kiRDDPC.png" tvg-name="CNN"  group-title="ERROR",AD Sport 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/C11nCpwH/setanta.png" tvg-name="Setanta Sports 1"  group-title="Quốc Tế",Setanta Sports 1
@@ -272,11 +272,23 @@ http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/C11nCpwH/setanta.png" tvg-name="Setanta Sports 2"  group-title="Quốc Tế",Setanta Sports 2
 http://ott-cdn.ucom.am/s82/index.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/N0QdcFxs/cgtn.png" tvg-name="CGTN"  group-title="ERROR",CGTN
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/N0QdcFxs/cgtn.png" tvg-name="CGTN"  group-title="Quốc Tế",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/PqK2rH6m/cgtndoc.png" tvg-name="CGTN Documentary"  group-title="ERROR",CGTN Documentary
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/PqK2rH6m/cgtndoc.png" tvg-name="CGTN Documentary"  group-title="Quốc Tế",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1, tvg-id="HITS HD" tvg-logo="https://i.postimg.cc/L8jg9s0W/hits.png" tvg-name="HITS (HD)"  group-title="Quốc Tế",HITS (HD)
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1, tvg-id="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" tvg-name="KIX (HD)"  group-title="Quốc Tế",KIX (HD)
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/j2kZpVJ3/image.png" tvg-name="TV5 Monde Style"  group-title="Quốc Tế",TV5 Monde Style
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/XqdhQh8X/fightsports.png" tvg-name="Fight Sports"  group-title="ERROR",Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdn.freebiesupply.com/images/thumbs/2x/hbo-logo.png" group-title="ERROR",HBO
 http://45.122.223.98/ok.php?id=1095992549084&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09tRTQoKil6WTZZalV5WlRwbFltKCopNllUZGgoKilbZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilUbzBPKFQ=&play.m3u8
@@ -293,8 +305,7 @@ http://45.122.223.98/ok.php?id=1095996874460&app=apps&code=dG9rZW49KCopaihUdygqK
 
 #EXTINF:-1 tvg-id="CARTOON" tvg-name="CARTOON" tvg-logo="https://i.postimg.cc/zXc2fF02/axn.png" group-title="ERROR",AXN
 http://45.122.223.98/ok.php?id=1096000413404&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKilqbzEoKil3&play.m3u8
-https://vsdh129.mycdn.me/hls/535973202652.m3u8/sig/tWFsKIGCXgw/expires/1569942364962/srcIp/116.110.211.242/clientType/0/srcAg/CHROME/video.m3u8
-https://ok.ru/videoembed/1096000413404
+https://vsdh129.mycdn.me/hls/535973202652.m3u8/sig/tWFsKIGCXgw/expires/1569942364962/srcIp/116.110.211.242/clientType/0/srcAg/CHROME/video.m3u8https://ok.ru/videoembed/1096000413404
 
 #EXTINF:-1, tvg-id="Fox Life" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/722_300.png" tvg-name="ERROR"  group-title="ERROR",Fox Life
 http://45.122.223.98/ok.php?id=1096015093468&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKil6b3pPW2c=&play.m3u8
@@ -302,17 +313,7 @@ http://45.122.223.98/ok.php?id=1096015093468&app=apps&code=dG9rZW49KCopaihUdygqK
 #EXTINF:-1, tvg-id="MTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/MTV_HD.png/revision/latest?cb=20110408015707" tvg-name="ERROR"  group-title="ERROR",MTV HD
 http://45.122.223.98/ok.php?id=1097166823132&app=apps&code=dG9rZW49KCopaihUdygqKWpvNCgqKTl9W2c2TmpCLXdOVG96Tnpka09qRXhOaihUNigqKVQoVDFPbVJsWmpFNk5tKFQyKCopZyZzdD0oKik5fWt2KCopaigqKXYoKilqW2d4T1NbZ3koKil6b3ooKilbZw==&play.m3u8
 
-#EXTINF:-1, tvg-id="HITS HD" tvg-logo="https://i.postimg.cc/L8jg9s0W/hits.png" tvg-name="HITS (HD)"  group-title="ERROR",HITS (HD)
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1, tvg-id="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" tvg-name="KIX (HD)"  group-title="ERROR",KIX (HD)
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/XqdhQh8X/fightsports.png" tvg-name="Fight Sports"  group-title="ERROR",Fight Sports
-http://45.126.83.51/uq2663/h/h05/index.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/j2kZpVJ3/image.png" tvg-name="TV5 Monde Style"  group-title="ERROR",TV5 Monde Style
-http://45.126.83.51/uq2663/h/h01/index.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/FzsmhVDs/hanoi1hd.png" group-title="Địa Phương",Hà Nội 1
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-h%C3%A0-n%E1%BB%99i-1-91.html
@@ -524,7 +525,7 @@ http://118.69.197.145/hls/bptv2.m3u8
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 http://vietcago.net/vstv/bentretv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://www.brt.vn/common/v1/images/logo-footer.png" group-title="Địa Phương",Bà Rịa Vũng Tàu
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://www.brt.vn/common/v1/images/logo-footer.png" group-title="ERROR",Bà Rịa Vũng Tàu
 http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
 
@@ -566,8 +567,8 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/jjNFmn6g/antv.png" group-title="Kênh Khác",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-http://vietcago.net/vstv/antv.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-c%C3%B4ng-an-nh%C3%A2n-d%C3%A2n-89.html
+http://vietcago.net/vstv/antv.m3u8
 
 #EXTINF:-1 tvg-id="Quốc Hội" tvg-name="Quốc Hội" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/121429-quoc-hoi.png" group-title="Kênh Khác",Quốc Hội
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/playlist.m3u8
