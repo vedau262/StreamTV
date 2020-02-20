@@ -384,7 +384,8 @@ http://118.107.68.17:1935/VTC/smil:Hagiang.smil/chunklist_w1461998919_b864000_sl
 http://113.160.198.111/Medias/HaNam/Playlist.m3u8
 http://vietcago.net/vstv/hanamtv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://nbtv.vn/common/v2/images/logo-footer.png" group-title="Địa Phương",Ninh Bình
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png" group-title="Địa Phương",Ninh Bình
+https://ftp.nbtv.vn/web/psnbtv.stream_1080p/chunklist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-ninh-b%C3%ACnh-183.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/caobang.png?raw=true" group-title="Địa Phương",Cao Bằng
@@ -541,12 +542,18 @@ http://202.43.109.142:1935/THDT/thdttv/chunklist_w179815152.m3u8
 http://tv.canthotv.vn/live/tv/tv.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/18/522019-BTV1.png" group-title="Địa Phương",Bình Dương 1
+http://hplusliveall.e96bbe18.sabai.vn/f2acf35fbc74708d922719f0a1db97db1582216513/btv1-480/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-b%C3%ACnh-d%C6%B0%C6%A1ng-1-179.html
 http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png" group-title="Địa Phương",Bình Dương 2
+http://hplusliveall.e96bbe18.sabai.vn/429136a62f6b905b3061ec6c88967fb51582216584/btv2-480/playlist.m3u8
+http://hplusliveall.e96bbe18.sabai.vn/4351ab052612964003c1be58000ae0751582216669/btv2-480/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/btv3.png" group-title="Địa Phương",Bình Dương 3
+http://hplusliveall.e96bbe18.sabai.vn/1d6e08cdc7a212251708cdf9052510a51582216804/btv3-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/thtv-logo.png" group-title="Địa Phương",Trà Vinh
 http://travinhlive.07b99c25.cdnviet.com/travinhtv/playlist.m3u8
