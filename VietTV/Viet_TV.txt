@@ -549,7 +549,7 @@ http://hplusliveall.e96bbe18.sabai.vn/990932aa468432af7923b9928d22f5be1582283379
 http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png" group-title="Địa Phương",Bình Dương 2
-http://hplusliveall.e96bbe18.sabai.vn/429136a62f6b905b3061ec6c88967fb51582216584/btv2-480/playlist.m3u8
+http://hplusliveall.e96bbe18.sabai.vn/8c6b3e1bba886fbd65dcf4733e4384191582283379/btv2-480/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
 
