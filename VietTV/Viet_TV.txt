@@ -378,7 +378,7 @@ http://118.107.68.17:1935/VTC/smil:SonlaTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png" group-title="Địa Phương",Vĩnh Phúc
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-v%C4%A9nh-ph%C3%BAc-147.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh3.googleusercontent.com/9KnW573krR6PrqPkGSkXIiFn6TuDYs53VzP1SOaNCGpX1yrdF9Vn5ApM3TSb29uthQ=w150" group-title="Địa Phương",Hà Giang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh5.googleusercontent.com/proxy/RSznTy1tIFkl1Mf-aFs6_KjwGxlHM9ZVLVn3yhQO7UzSzZ1uslhgTL621jQWBhO0r4G02yQy-MK7NDePh_lFWTuYOsJy" group-title="Địa Phương",Hà Giang
 http://118.107.68.17:1935/VTC/smil:Hagiang.smil/chunklist_w1461998919_b864000_slVIE.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png" group-title="Địa Phương",Hà Nam
