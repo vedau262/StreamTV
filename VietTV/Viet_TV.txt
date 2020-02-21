@@ -424,9 +424,9 @@ http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-t%E1%BB%89nh-th%E1%BB%ABa-thi%C3%AAn-hu%E1%BA%BF-127.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png" group-title="Địa Phương",Đà Nẵng 1
+https://vtvgo.vn/xem-truc-tuyen-kenh-th-%C4%90%C3%A0-n%E1%BA%B5ng-1-175.html
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/playlist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-https://vtvgo.vn/xem-truc-tuyen-kenh-th-%C4%90%C3%A0-n%E1%BA%B5ng-1-175.html
 http://vietcago.net/vstv/danangtv1.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png" group-title="Địa Phương",Đà Nẵng 2
