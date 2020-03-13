@@ -58,7 +58,7 @@ http://xemtivi.online/live/vtc/vtc1/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc2.php
 http://xemtivi.online/live/vtc/vtc2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VTC3" tvg-name="VTC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/VTC3_logo_2018.svg" group-title="VTV - VTC",VTC3
+#EXTINF:-1 tvg-id="VTC3" tvg-name="VTC3" tvg-logo="https://res.cloudinary.com/videa-prod/image/upload/v1518165767/343fc7d0-0d75-11e8-82bb-c53004caf2c1.png" group-title="VTV - VTC",VTC3
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
 http://data.xemtivihot.com/live/vtc/vtc3.php
 http://xemtivi.online/live/vtc/vtc3/playlist.m3u8
