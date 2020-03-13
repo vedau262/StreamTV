@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png" group-title="VTV - VTC",VTV1
+#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://i.postimg.cc/nzsVmkqR/vtv2hd.png" group-title="VTV - VTC",VTV1
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
 http://data.xemtivihot.com/live/vtv/vtv1.php
 http://xemtivi.online/live/vtv1/index.m3u8
