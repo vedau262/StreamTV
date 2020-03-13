@@ -63,7 +63,7 @@ http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
 http://data.xemtivihot.com/live/vtc/vtc3.php
 http://xemtivi.online/live/vtc/vtc3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_Yeah1Family_422x278.png" group-title="VTV - VTC",Yeah1 Family
+#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc4.png" group-title="VTV - VTC",Yeah1 Family
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc4.php
 http://xemtivi.online/live/vtc/vtc4/playlist.m3u8
@@ -76,7 +76,7 @@ http://xemtivi.online/live/vtc/vtc5/chunklist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc6.php
 http://xemtivi.online/live/vtc/vtc6/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VTC7" tvg-name="VTC7" tvg-logo="https://media.laodong.vn/Storage/NewsPortal/Uploaded/dangngocvu/2017_08_10/TodayTV-logo_TAKR_JPEF.png" group-title="VTV - VTC",Today TV
+#EXTINF:-1 tvg-id="VTC7" tvg-name="VTC7" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc7.png" group-title="VTV - VTC",Today TV
 http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
 http://tw.101vn.com/resource/live/tpap.php?id=anhsaovtc7&c=411619115&type=rd&p.m3u8
 http://data.xemtivihot.com/live/vtc/vtc7.php
