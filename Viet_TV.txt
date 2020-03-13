@@ -337,7 +337,7 @@ http://vncdn.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/tuyenquang.png?raw=true" group-title="Địa Phương",Tuyên Quang
 http://27.72.164.157:8080/hls/ttv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh3.googleusercontent.com/proxy/ZdfXbtbZ0MTLkASRZda0YyeUkxKCCtcN18nPWlio0EnnbofO7DqN534bUPvFUHOhdjjhdhk64hoqOOaEs-48CPkUNl8PvSvw4YcuIu-K6w" group-title="Địa Phương",Bắc Cạn
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.ytimg.com/vi/A-C7eT8LVOU/hqdefault.jpg" group-title="Địa Phương",Bắc Cạn
 http://118.107.68.17:1935/VTC/smil:Backan.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/bacninh.png?raw=true" group-title="Địa Phương",Bắc Ninh
