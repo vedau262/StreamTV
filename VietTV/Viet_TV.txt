@@ -48,7 +48,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
 http://data.xemtivihot.com/live/vtv/vtv9.php
 http://xemtivi.online/live/vtv9/index.m3u8
 
-#EXTINF:-1 tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc1sd.png" group-title="VTV - VTC",VTC1
+#EXTINF:-1 tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc1.png" group-title="VTV - VTC",VTC1
 https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
 http://media.kythuatvov.vn:1936/live/VTC1.HD/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-s%E1%BB%91-vtc1-99.html
@@ -86,35 +86,35 @@ http://xemtivi.online/live/vtc/vtc7/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc8.php
 http://xemtivi.online/live/vtc/vtc8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC9" tvg-name="VTC9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/427px-VTC9_logo_2018.svg.png" group-title="VTV - VTC",VTC9
+#EXTINF:-1 tvg-id="VTC9" tvg-name="VTC9" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc9.png" group-title="VTV - VTC",VTC9
 http://live.cdn.mobifonetv.vn/motv2/myletsviet_hls.smil/chunklist.m3u8
 http://cdn3.vtcplay.vn:1935/VTC/smil:VTC9.smil/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc9.php
 http://xemtivi.online/live/vtc/vtc9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC10" tvg-name="VTC10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/435px-VTC10_logo_2018.svg.png" group-title="VTV - VTC",VTC10
+#EXTINF:-1 tvg-id="VTC10" tvg-name="VTC10" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc10.png" group-title="VTV - VTC",VTC10
 http://live.cdn.mobifonetv.vn/motv2/myvtc10_hls.smil/chunklist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc10.php
 http://xemtivi.online/live/vtc/vtc10/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC11" tvg-name="VTC11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/VTC11_logo_7.2018.png" group-title="VTV - VTC",Kids and Family
+#EXTINF:-1 tvg-id="VTC11" tvg-name="VTC11" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc11.png" group-title="VTV - VTC",Kids and Family
 http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc11.php
 http://xemtivi.online/live/vtc/vtc11/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VTC12" tvg-name="VTC12" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/vtc12.png?raw=true" group-title="VTV - VTC",VTC12
+#EXTINF:-1 tvg-id="VTC12" tvg-name="VTC12" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc12.png" group-title="VTV - VTC",VTC12
 http://data.xemtivihot.com/live/vtc/vtc12.php
 http://xemtivi.online/live/vtc/vtc12/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VTC13" tvg-name="VTC13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/VTC13_logo_2018.svg/435px-VTC13_logo_2018.svg.png" group-title="VTV - VTC",VTC13
+#EXTINF:-1 tvg-id="VTC13" tvg-name="VTC13" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc13.png" group-title="VTV - VTC",VTC13
 http://data.xemtivihot.com/live/vtc/vtc13.php
 http://xemtivi.online/live/vtc/vtc13/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VTC14" tvg-name="VTC14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/262px-VTC14_logo_2018.svg.png" group-title="VTV - VTC",VTC14
+#EXTINF:-1 tvg-id="VTC14" tvg-name="VTC14" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc14.png" group-title="VTV - VTC",VTC14
 http://data.xemtivihot.com/live/vtc/vtc14.php
 http://xemtivi.online/live/vtc/vtc14/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC16" tvg-name="VTC16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/435px-VTC16_logo_2018.svg.png" group-title="VTV - VTC",VTC16
+#EXTINF:-1 tvg-id="VTC16" tvg-name="VTC16" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc16.png" group-title="VTV - VTC",VTC16
 http://data.xemtivihot.com/live/vtc/vtc16.php
 
 #EXTINF:-1 tvg-id="HTV1" tvg-name="HTV1" tvg-logo="https://i.postimg.cc/PqkgtMqs/htv1.png" group-title="HTV - SCTV",HTV1
