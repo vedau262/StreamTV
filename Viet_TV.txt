@@ -54,7 +54,7 @@ http://media.kythuatvov.vn:1936/live/VTC1.HD/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-s%E1%BB%91-vtc1-99.html
 http://xemtivi.online/live/vtc/vtc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC2" tvg-name="VTC2" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc1sd.png" group-title="VTV - VTC",VTC2
+#EXTINF:-1 tvg-id="VTC2" tvg-name="VTC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/240px-VTC2_logo_2018.svg.png" group-title="VTV - VTC",VTC2
 http://data.xemtivihot.com/live/vtc/vtc2.php
 http://xemtivi.online/live/vtc/vtc2/chunklist.m3u8
 
