@@ -58,21 +58,21 @@ http://xemtivi.online/live/vtc/vtc1/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc2.php
 http://xemtivi.online/live/vtc/vtc2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VTC3" tvg-name="VTC3" tvg-logo="https://res.cloudinary.com/videa-prod/image/upload/v1518165767/343fc7d0-0d75-11e8-82bb-c53004caf2c1.png" group-title="VTV - VTC",VTC3
+#EXTINF:-1 tvg-id="VTC3" tvg-name="VTC3" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc3.png" group-title="VTV - VTC",VTC3
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
 http://data.xemtivihot.com/live/vtc/vtc3.php
 http://xemtivi.online/live/vtc/vtc3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ef/Yeah1family.png" group-title="VTV - VTC",Yeah1 Family
+#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_Yeah1Family_422x278.png" group-title="VTV - VTC",Yeah1 Family
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc4.php
 http://xemtivi.online/live/vtc/vtc4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC5" tvg-name="VTC5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/VTC5_2018.png/revision/latest/scale-to-width-down/300?cb=20191009010309" group-title="VTV - VTC",VTC5
+#EXTINF:-1 tvg-id="VTC5" tvg-name="VTC5" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc5.png" group-title="VTV - VTC",VTC5
 http://data.xemtivihot.com/live/vtc/vtc5.php
 http://xemtivi.online/live/vtc/vtc5/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VTC6" tvg-name="VTC6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/260px-VTC6_logo_2018.svg.png" group-title="VTV - VTC",VTC6
+#EXTINF:-1 tvg-id="VTC6" tvg-name="VTC6" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc6.png" group-title="VTV - VTC",VTC6
 http://data.xemtivihot.com/live/vtc/vtc6.php
 http://xemtivi.online/live/vtc/vtc6/chunklist.m3u8
 
@@ -82,7 +82,7 @@ http://tw.101vn.com/resource/live/tpap.php?id=anhsaovtc7&c=411619115&type=rd&p.m
 http://data.xemtivihot.com/live/vtc/vtc7.php
 http://xemtivi.online/live/vtc/vtc7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTC8" tvg-name="VTC8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/VTC8.svg/260px-VTC8.svg.png" group-title="VTV - VTC",VTC8
+#EXTINF:-1 tvg-id="VTC8" tvg-name="VTC8" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc8.png" group-title="VTV - VTC",VTC8
 http://data.xemtivihot.com/live/vtc/vtc8.php
 http://xemtivi.online/live/vtc/vtc8/playlist.m3u8
 
