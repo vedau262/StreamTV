@@ -52,7 +52,7 @@ http://xemtivi.online/live/vtv9/index.m3u8
 https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
 http://media.kythuatvov.vn:1936/live/VTC1.HD/playlist.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-s%E1%BB%91-vtc1-99.html
-http://xemtivi.online/live/vtc/vtc1/playlist.m3u8
+http://data.xemtivihot.com/live/vtc/vtc1.php
 
 #EXTINF:-1 tvg-id="VTC2" tvg-name="VTC2" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc2.png" group-title="VTV - VTC",VTC2
 http://data.xemtivihot.com/live/vtc/vtc2.php
@@ -260,16 +260,16 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1, tvg-id="AD Sport 2 HD" tvg-logo="https://i.imgur.com/kiRDDPC.png" tvg-name="CNN"  group-title="ERROR",AD Sport 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/-Kx8cSr5W3hxBSSeX_ApISDIRjns1LFagvUQRfHq13bnTEffTmgiN6DD0FIVvi3qozZaRSAFCK9CUQ702FAYg2UfWU5D6PcVx3o" tvg-name="Setanta Sports 1"  group-title="Quốc Tế",Setanta Sports 1
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" tvg-name="Setanta Sports 1"  group-title="Quốc Tế",Setanta Sports 1
 http://ott-cdn.ucom.am/s81/index.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://lh6.googleusercontent.com/proxy/9MHSRX0M9f409PShiSEmxPPNG-WzyZLej1mGN0gS8wCb8onwOl8rZaiz0cKjWs3dgrxQyZ9frrmhQ5mn6kIhsIIOAPaCX7Lh9z2OG2LHa8ajxK2oIw" tvg-name="Setanta Sports 2"  group-title="Quốc Tế",Setanta Sports 2
 http://ott-cdn.ucom.am/s82/index.m3u8
 
-#EXTINF:-1, tvg-id="HITS HD" tvg-logo="https://i.postimg.cc/L8jg9s0W/hits.png" tvg-name="HITS (HD)"  group-title="Quốc Tế",HITS (HD)
+#EXTINF:-1, tvg-id="HITS HD" tvg-logo="https://i.postimg.cc/L8jg9s0W/hits.png" tvg-name="HITS (HD)"  group-title="ERROR",HITS (HD)
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1, tvg-id="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" tvg-name="KIX (HD)"  group-title="Quốc Tế",KIX (HD)
+#EXTINF:-1, tvg-id="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" tvg-name="KIX (HD)"  group-title="ERROR",KIX (HD)
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/N0QdcFxs/cgtn.png" tvg-name="CGTN"  group-title="ERROR",CGTN
@@ -278,7 +278,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/PqK2rH6m/cgtndoc.png" tvg-name="CGTN Documentary"  group-title="ERROR",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/j2kZpVJ3/image.png" tvg-name="TV5 Monde Style"  group-title="Quốc Tế",TV5 Monde Style
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/j2kZpVJ3/image.png" tvg-name="TV5 Monde Style"  group-title="ERROR",TV5 Monde Style
 http://45.126.83.51/uq2663/h/h01/index.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/XqdhQh8X/fightsports.png" tvg-name="Fight Sports"  group-title="ERROR",Fight Sports
