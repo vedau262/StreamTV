@@ -1,7 +1,7 @@
 {
 	"is_server_maintenance":"false",
 	"is_server_maintenance_follow_version":"true",
-	"version_name_maintenance":"1.0",
+	"version_name_maintenance":"1.7",
 	"s_load_admob_first":"false",	
 	"s_had_admob_banner":"true",
 	"s_had_admob_interstitial":"true",
