@@ -348,10 +348,12 @@ http://118.107.68.17:1935/VTC/smil:Bacninh.smil/playlist.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 http://vietcago.net/vstv/yenbaitv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/laocai.png?raw=true" group-title="ERROR",Lào Cai
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/laocai.png?raw=true" group-title="Địa Phương",Lào Cai
 http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
+http://tructuyen.laocaitv.vn:1935//live_/LCTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/311162-Lang-Son.png" group-title="ERROR",Lạng Sơn
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/311162-Lang-Son.png" group-title="Địa Phương",Lạng Sơn
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live_manifest.m3u8?vhost=__defaultVhost__
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-l%E1%BA%A1ng-s%C6%A1n-137.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/143__.png" group-title="ERROR",Hải Dương
