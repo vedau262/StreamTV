@@ -108,6 +108,7 @@ http://data.xemtivihot.com/live/vtc/vtc12.php
 http://xemtivi.online/live/vtc/vtc12/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="VTC13" tvg-name="VTC13" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc13.png" group-title="VTV - VTC",VTC13
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc13_sd.smil/playlist.m3u8
 http://data.xemtivihot.com/live/vtc/vtc13.php
 http://xemtivi.online/live/vtc/vtc13/chunklist.m3u8
 
@@ -357,6 +358,7 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live_manifest.m3u8?vhost=__defaultVhost
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-l%E1%BA%A1ng-s%C6%A1n-137.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/143__.png" group-title="ERROR",Hải Dương
+http://data.xemtivihot.com/live/diaphuong/haiduong.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%A3i-d%C6%B0%C6%A1ng-143.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PTV_HD.svg/1024px-PTV_HD.svg.png" group-title="Địa Phương",Phú Thọ
@@ -419,6 +421,7 @@ http://171.244.141.125:8080/hls/hatinhtv.m3u8
 http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/127__.png" group-title="ERROR",Huế
+http://data.xemtivihot.com/live/diaphuong/hue.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-t%E1%BB%89nh-th%E1%BB%ABa-thi%C3%AAn-hu%E1%BA%BF-127.html
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png" group-title="Địa Phương",Đà Nẵng 1
