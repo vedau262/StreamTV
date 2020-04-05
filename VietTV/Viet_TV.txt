@@ -410,7 +410,8 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-th-thanh-ho%C3%A1-hd-181.html
 http://113.160.173.47:8080/live/na1_720/index.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-ngh%E1%BB%87-an-121.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/04/843599-hatinh.png" group-title="ERROR",Hà Tĩnh
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/04/843599-hatinh.png" group-title="Địa Phương",Hà Tĩnh
+http://data.xemtivihot.com/live/diaphuong/hatinh.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-h%C3%A0-t%C4%A9nh-198.html
 http://171.244.141.125:8080/hls/hatinhtv.m3u8
 
