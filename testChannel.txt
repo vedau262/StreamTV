@@ -234,6 +234,9 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1, tvg-id="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" tvg-name="Fashion TV (HD)"  group-title="Quốc Tế",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
+#EXTINF:-1, tvg-id="FASHION TV" tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" tvg-name="Fashion HD"  group-title="Quốc Tế",Fashion TV
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
 #EXTINF:-1, tvg-id="Channel V HD-ClipTV" tvg-logo="https://i.postimg.cc/wxsQVYV2/channelv-hd.png" tvg-name="Channel V HD"  group-title="Quốc Tế",Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8?
 
@@ -264,6 +267,13 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1, tvg-id="BBC World News" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/bbc-world-news-logo-png-4.png" tvg-name="BBC World News"  group-title="Quốc Tế",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Quốc Tế",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Quốc Tế",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Quốc Tế",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
 #EXTINF:-1, tvg-id="CNN_VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" tvg-name="CNN"  group-title="Quốc Tế",CNN
 http://ott-cdn.ucom.am/s27/index.m3u8
 
@@ -272,12 +282,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 #EXTINF:-1, tvg-id="AD Sport 2 HD" tvg-logo="https://i.imgur.com/kiRDDPC.png" tvg-name="CNN"  group-title="ERROR",AD Sport 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" tvg-name="Setanta Sports 1"  group-title="Quốc Tế",Setanta Sports 1
-http://ott-cdn.ucom.am/s81/index.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://lh6.googleusercontent.com/proxy/9MHSRX0M9f409PShiSEmxPPNG-WzyZLej1mGN0gS8wCb8onwOl8rZaiz0cKjWs3dgrxQyZ9frrmhQ5mn6kIhsIIOAPaCX7Lh9z2OG2LHa8ajxK2oIw" tvg-name="Setanta Sports 2"  group-title="Quốc Tế",Setanta Sports 2
-http://ott-cdn.ucom.am/s82/index.m3u8
 
 #EXTINF:-1, tvg-id="HITS HD" tvg-logo="https://i.postimg.cc/L8jg9s0W/hits.png" tvg-name="HITS (HD)"  group-title="ERROR",HITS (HD)
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
@@ -679,3 +683,25 @@ http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWvr1HiGrxxgrjVmR4nfBfDDv_uviG6Cq3pOhfBN4ZVgOH-i&s" tvg-country="VN" tvg-url="" group-title="Kênh Khác",Việt News TV
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" tvg-name="Setanta Sports 1"  group-title="Sport",Setanta Sports 1
+http://ott-cdn.ucom.am/s81/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://lh6.googleusercontent.com/proxy/9MHSRX0M9f409PShiSEmxPPNG-WzyZLej1mGN0gS8wCb8onwOl8rZaiz0cKjWs3dgrxQyZ9frrmhQ5mn6kIhsIIOAPaCX7Lh9z2OG2LHa8ajxK2oIw" tvg-name="Setanta Sports 2"  group-title="Sport",Setanta Sports 2
+http://ott-cdn.ucom.am/s82/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="China;Sport",NBA百视通直播间4HD
+http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8
