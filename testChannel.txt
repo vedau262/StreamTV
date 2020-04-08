@@ -779,7 +779,7 @@ http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="Sport",D Sport(India)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2018/11/Dsport-New-Logo.jpg" group-title="Sport",D Sport(India)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
@@ -883,7 +883,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4(UAE)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 5 ARB" tvg-name="Abu Dhabi Sports 5 ARB" tvg-logo="https://i.imgur.com/7snS5Ki.png" group-title="Sport",Abu Dhabi Sports 5(UAE)
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 5 ARB" tvg-name="Abu Dhabi Sports 5 ARB" tvg-logo="https://i.imgur.com/7snS5Ki.png" group-title="ERROR",Abu Dhabi Sports 5(UAE)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 6 ARB" tvg-name="Abu Dhabi Sports 6 ARB" tvg-logo="https://i.imgur.com/icskFzD.png" group-title="Sport",Abu Dhabi Sports 6(UAE)
@@ -898,11 +898,11 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 #EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports(UAE)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2(UAE)
+#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="ERROR",Dubai Sports 2(UAE)
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3(UAE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="ERROR",Dubai Sports 3(UAE)
 http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport(UAE)
@@ -910,9 +910,9 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sport",EDGEsport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sport",EDGE sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sport",Sportskool(United States)
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
