@@ -707,15 +707,45 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间1HD
 http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间2HD
 http://223.110.243.170/PLTV/2/224/3221226797/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="China;Sport",NBA百视通直播间3HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间3HD
 http://223.110.243.170/PLTV/2/224/3221226799/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间4HD
 http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间5HD
 http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间6HD
 http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间7HD
 http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7qSbS53.png" group-title="Sport",Telecaribe Deportes Colombia
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 1
+https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 2
+https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 3
+https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 4
+https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 5
+https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 6
+https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
