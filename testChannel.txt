@@ -732,24 +732,6 @@ http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 1
-https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 2
-https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 3
-https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 4
-https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 5
-https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 6
-https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="Sport",D Sport(India)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
@@ -760,12 +742,49 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
 http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 2
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 3
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 4
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 5
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 6
+https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 7
+https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 8
+https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 9
+https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax TV
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Sport",Rai Sport(Italy)
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
