@@ -703,5 +703,17 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="China;Sport",NBA百视通直播间4HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间1HD
+http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间2HD
+http://223.110.243.170/PLTV/2/224/3221226797/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="China;Sport",NBA百视通直播间3HD
+http://223.110.243.170/PLTV/2/224/3221226799/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间4HD
 http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间5HD
+http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间6HD
+http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间7HD
+http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
