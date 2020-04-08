@@ -749,3 +749,23 @@ https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 6
 https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="Sport",D Sport(India)
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="Sport",DD Sports(India)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
