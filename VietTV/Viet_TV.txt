@@ -533,6 +533,9 @@ http://202.43.109.142:1935/thbttv/bttv/playlist.m3u8
 http://202.43.109.142:1935/thbttv/bttv/chunklist_w1082490967.m3u8
 http://data.xemtivihot.com/live/diaphuong/binhthuan.php
 
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh4.googleusercontent.com/proxy/PNbZWvDaWxkiGu3r8KNWE8wJg84tPkArqabU2ZRmezXzg14j3xoSLSXhT5N7Q381-8z5xsMWxqr-vv4oi_jLUV91hf5ylJABxNLLY7Tjg6MQaRwH2n0vM2_80dmZ0bOz-l5TfwznbiVNTtwbyy8vvJs5U3lwtOEvQmoiwkhsJPle9gvm3rBpEo5WdhMn2U3sN9eNmiZJ3i794_hFTNWOLpELyiICNS3wOiti" group-title="Địa Phương",Ninh Thuận
+http://data.xemtivihot.com/live/diaphuong/ninhthuan.php
+
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Phuyen.png/220px-Phuyen.png" group-title="Địa Phương",Phú Yên
 http://113.161.4.48:8080/phuyen/tv3.ts
 http://113.161.4.48:8080/phuyen/tv.m3u8
@@ -553,6 +556,9 @@ http://data.xemtivihot.com/live/diaphuong/gialai.php
 http://118.69.161.10:8134/liveevent.m3u8
 http://vietcago.net/vstv/daklaktv.m3u8
 http://data.xemtivihot.com/live/diaphuong/daklak.php
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh6.googleusercontent.com/proxy/MZOHnzHpZgmDkoToQ14OLYuahtNKY1zE7ZmK3zMZehQvn_BLo5JjLvdTVY9FsFfimMtnb4Kn63DBKidI0RccjVXcIzQN0KqNQ0qRGVQSi6IpNIzzEFbkKA" group-title="Địa Phương",Đắk Nông
+http://data.xemtivihot.com/live/diaphuong/daknong.php
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/969202-Lamdong.png" group-title="Địa Phương",Lâm Đồng
 http://118.107.68.17:1935/VTC/smil:Lamdong.smil/playlist.m3u8
