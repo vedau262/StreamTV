@@ -741,10 +741,10 @@ https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Logoprincipal.png" group-title="Kênh Khác",MOV - HanoiCab4
 http://data.xemtivihot.com/live/vtvcab/giaitritv.php
 
-#EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="http://4.bp.blogspot.com/-p4TU7RpPQYw/UUHvLDVYw3I/AAAAAAAAAF8/d1l3asSmMuw/s1600/catholictv.png" group-title="Kênh Khác",Công Giáo TV
+#EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="http://4.bp.blogspot.com/-p4TU7RpPQYw/UUHvLDVYw3I/AAAAAAAAAF8/d1l3asSmMuw/s1600/catholictv.png" group-title="ERROR",Công Giáo TV
 http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWvr1HiGrxxgrjVmR4nfBfDDv_uviG6Cq3pOhfBN4ZVgOH-i&s" tvg-country="VN" tvg-url="" group-title="Kênh Khác",Việt News TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWvr1HiGrxxgrjVmR4nfBfDDv_uviG6Cq3pOhfBN4ZVgOH-i&s" tvg-country="VN" tvg-url="" group-title="ERROR",Việt News TV
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
 
 
@@ -848,7 +848,7 @@ http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Sport",TDM Sports Macau
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="ERROR",TDM Sports Macau
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport",Al Kass One(Qatar)
@@ -908,10 +908,10 @@ https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 7
 https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="ERROR",Olympic Channel 8
 https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="ERROR",Olympic Channel 9
 https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA 1HD
