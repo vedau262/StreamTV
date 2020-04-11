@@ -622,6 +622,7 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-k%C3%AAnh-1-truy%E1%BB%81n-h%C3%ACnh-b%C3%A
 http://118.69.197.145/hls/bptv2.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh4.googleusercontent.com/proxy/3aNVTrgPoe45_ZxBH-_KkFPeRwpCgo43CUFWwC84aK4jfE2LawKvyMXIWG34a1WhBaf52TSsaIh6DdJnypci913c2cKACOkPYVOp3A" group-title="Địa Phương",Sóc Trăng
+http://115.78.3.164:8134/liveevent.m3u8
 http://data.xemtivihot.com/live/diaphuong/soctrang.php
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/494633-bentre.png" group-title="Địa Phương",Bến Tre
