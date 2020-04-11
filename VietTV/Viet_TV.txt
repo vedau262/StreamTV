@@ -23,10 +23,10 @@ https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
 http://data.xemtivihot.com/live/vtv/vtv5.php
 http://xemtivi.online/live/vtv5/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png" group-title="VTV - VTC",Tây Nam Bộ
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png" group-title="ERROR",Tây Nam Bộ
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-t%C3%A2y-nam-b%E1%BB%99-7.html
 
-#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20190705040711&path-prefix=vi" group-title="VTV - VTC",Tây Nguyên 
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20190705040711&path-prefix=vi" group-title="ERROR",Tây Nguyên 
 https://vtvgo.vn/xem-truc-tuyen-kenh-k%C3%AAnh-vtv5-t%C3%A2y-nguy%C3%AAn-163.html
 
 #EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6" tvg-logo="https://i.postimg.cc/LXZR5sMG/vtv6hd.png" group-title="VTV - VTC",VTV6
