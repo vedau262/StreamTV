@@ -2,6 +2,8 @@
 	"is_server_maintenance":"false",
 	"is_server_maintenance_follow_version":"false",
 	"version_name_maintenance":"1.0",
+	"url_app_share":"https://play.google.com/store/apps/details?id=com.mrnew.viettv",
+	"url_more_apps":"https://play.google.com/store/apps/developer?id=mrdoanalex",
 	"s_load_admob_first":"false",	
 	"s_had_admob_banner":"true",
 	"s_had_admob_interstitial":"true",
