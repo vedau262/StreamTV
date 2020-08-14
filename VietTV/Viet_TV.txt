@@ -553,6 +553,9 @@ http://data.xemtivihot.com/live/diaphuong/binhthuan.php
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh4.googleusercontent.com/proxy/PNbZWvDaWxkiGu3r8KNWE8wJg84tPkArqabU2ZRmezXzg14j3xoSLSXhT5N7Q381-8z5xsMWxqr-vv4oi_jLUV91hf5ylJABxNLLY7Tjg6MQaRwH2n0vM2_80dmZ0bOz-l5TfwznbiVNTtwbyy8vvJs5U3lwtOEvQmoiwkhsJPle9gvm3rBpEo5WdhMn2U3sN9eNmiZJ3i794_hFTNWOLpELyiICNS3wOiti" group-title="Địa Phương",Ninh Thuận
 http://data.xemtivihot.com/live/diaphuong/ninhthuan.php
 
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/03/05/zcg16yy5_06-_btc_binh_dinh.jpg" group-title="Địa Phương",Bình Định
+http://data.xemtivihot.com/live/diaphuong/binhdinh.php
+
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Phuyen.png/220px-Phuyen.png" group-title="Địa Phương",Phú Yên
 http://113.161.4.48:8080/phuyen/tv3.ts
 http://113.161.4.48:8080/phuyen/tv.m3u8
@@ -723,6 +726,15 @@ http://cdn.xemtivisohd.com/nguon/vieon.php?id=https://vieon.vn/truyen-hinh-truc-
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
 https://5952e4052a2e8.streamlock.net/live/truyenhinhnhandan720/chunklist_w1220145704.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/06/11/ioea6obv_livetv_viegiaitri.jpg" group-title="Kênh Khác",Vie Giải Trí
+http://cdn.xemtivisohd.com/nguon/vieon.php?id=https://vieon.vn/truyen-hinh-truc-tuyen/vie-giai-tri-hd
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/06/11/ckx81snd_livetv_viedrama.jpg" group-title="Kênh Khác",Vie Dramas
+http://cdn.xemtivisohd.com/nguon/vieon.php?id=https://vieon.vn/truyen-hinh-truc-tuyen/vie-dramas-hd
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/07/28/frj33kds_an-vien-tv.jpg" group-title="Kênh Khác",An Viên HD
+http://cdn.xemtivisohd.com/nguon/vieon.php?id=https://vieon.vn/truyen-hinh-truc-tuyen/an-vien-hd
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://vovdulich.vn/templates/frontend/vovtv/Assets/img/logo.png" group-title="Kênh Khác",Vietnam Journey
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live_manifest.m3u8
