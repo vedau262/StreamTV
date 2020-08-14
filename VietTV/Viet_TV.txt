@@ -51,84 +51,88 @@ http://xemtivi.online/live/vtv9/index.m3u8
 
 #EXTINF:-1 tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc1.png" group-title="VTV - VTC",VTC1
 http://media.kythuatvov.vn:1936/live/VTC1.HD/playlist.m3u8
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc1_sd.smil/playlist.m3u8
-http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist.m3u8
+http://42.112.168.176/live/eds/VTC1/sa_hls/VTC1.m3u8
+http://data.xemtivihot.com/live/vtc/vtc1.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-s%E1%BB%91-vtc1-99.html
 
 #EXTINF:-1 tvg-id="VTC2" tvg-name="VTC2" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc2.png" group-title="VTV - VTC",VTC2
-http://xemtivi.online/live/vtc/vtc2/chunklist.m3u8
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc2_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC2/sa_hls/VTC2.m3u8
 http://data.xemtivihot.com/live/vtc/vtc2.php
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc2_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC3" tvg-name="VTC3" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc3.png" group-title="VTV - VTC",VTC3
+http://42.112.168.176/live/eds/VTC3/sa_hls/VTC3.m3u8
+http://data.xemtivihot.com/live/vtc/vtc3.php
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
 https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc3_sd.smil/playlist.m3u8
-http://data.xemtivihot.com/live/vtc/vtc3.php
-http://xemtivi.online/live/vtc/vtc3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc4.png" group-title="VTV - VTC",Yeah1 Family
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/playlist.m3u8
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc4_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC4/sa_hls/VTC4.m3u8
 http://data.xemtivihot.com/live/vtc/vtc4.php
-http://xemtivi.online/live/vtc/vtc4/playlist.m3u8
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc4_sd.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="VTC5" tvg-name="VTC5" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc5.png" group-title="VTV - VTC",VTC5
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc5_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC5/sa_hls/VTC5.m3u8
 http://data.xemtivihot.com/live/vtc/vtc5.php
-http://xemtivi.online/live/vtc/vtc5/chunklist.m3u8
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc5_sd.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="VTC6" tvg-name="VTC6" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc6.png" group-title="VTV - VTC",VTC6
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc6_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC6/sa_hls/VTC6.m3u8
 http://data.xemtivihot.com/live/vtc/vtc6.php
-http://xemtivi.online/live/vtc/vtc6/chunklist.m3u8
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc6_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC7" tvg-name="VTC7" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc7.png" group-title="VTV - VTC",Today TV
-http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc7_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC7/sa_hls/VTC7.m3u8
+http://data.xemtivihot.com/nguon/vtc.php?id=vtc7
 http://data.xemtivihot.com/live/vtc/vtc7.php
-http://xemtivi.online/live/vtc/vtc7/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="VTC8" tvg-name="VTC8" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc8.png" group-title="VTV - VTC",VTC8
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc8_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC8/sa_hls/VTC8.m3u8
 http://data.xemtivihot.com/live/vtc/vtc8.php
-http://xemtivi.online/live/vtc/vtc8/playlist.m3u8
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc8_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC9" tvg-name="VTC9" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc9.png" group-title="VTV - VTC",VTC9
-http://live.cdn.mobifonetv.vn/motv2/myletsviet_hls.smil/chunklist.m3u8
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc9_sd.smil/playlist.m3u8
-http://cdn3.vtcplay.vn:1935/VTC/smil:VTC9.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC9/sa_hls/VTC9.m3u8
 http://data.xemtivihot.com/live/vtc/vtc9.php
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc9_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC10" tvg-name="VTC10" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc10.png" group-title="VTV - VTC",VTC10
-http://live.cdn.mobifonetv.vn/motv2/myvtc10_hls.smil/chunklist.m3u8
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc10_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC10/sa_hls/VTC10.m3u8
 http://data.xemtivihot.com/live/vtc/vtc10.php
-http://xemtivi.online/live/vtc/vtc10/playlist.m3u8
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc10_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC11" tvg-name="VTC11" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc11.png" group-title="VTV - VTC",Kids and Family
-http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc11_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC11/sa_hls/VTC11.m3u8
 http://data.xemtivihot.com/live/vtc/vtc11.php
-http://xemtivi.online/live/vtc/vtc11/chunklist.m3u8
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc11_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC12" tvg-name="VTC12" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc12.png" group-title="VTV - VTC",VTC12
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc12_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC12/sa_hls/VTC12.m3u8
 http://data.xemtivihot.com/live/vtc/vtc12.php
-http://xemtivi.online/live/vtc/vtc12/chunklist.m3u8
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc12_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC13" tvg-name="VTC13" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc13.png" group-title="VTV - VTC",VTC13
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc13_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC13/sa_hls/VTC13.m3u8
 http://data.xemtivihot.com/live/vtc/vtc13.php
-http://xemtivi.online/live/vtc/vtc13/chunklist.m3u8
+http://sv.xemtivitop.com/live/vtc/vtc13.php
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc13_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC14" tvg-name="VTC14" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc14.png" group-title="VTV - VTC",VTC14
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc14_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC14/sa_hls/VTC14.m3u8
 http://data.xemtivihot.com/live/vtc/vtc14.php
-http://xemtivi.online/live/vtc/vtc14/playlist.m3u8
+http://sv.xemtivitop.com/live/vtc/vtc14.php
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc14_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC16" tvg-name="VTC16" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc16.png" group-title="VTV - VTC",VTC16
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc16_sd.smil/playlist.m3u8
+http://42.112.168.176/live/eds/VTC16/sa_hls/VTC16.m3u8
 http://data.xemtivihot.com/live/vtc/vtc16.php
+http://sv.xemtivitop.com/live/vtc/vtc16-2.php
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc16_sd.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="HTV1" tvg-name="HTV1" tvg-logo="https://i.postimg.cc/PqkgtMqs/htv1.png" group-title="HTV - SCTV",HTV1
 http://m1.xemtivitop.info/htv/htvc.php?id=2631&play.m3u8
