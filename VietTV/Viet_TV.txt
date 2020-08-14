@@ -758,7 +758,7 @@ http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/prg-image/logo-vtvcab11-vgs-shop.png" group-title="Kênh Khác",VGS Shop
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Logoprincipal.png" group-title="Kênh Khác",MOV - HanoiCab4
+#EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Logoprincipal.png" group-title="ERROR",MOV - HanoiCab4
 http://data.xemtivihot.com/live/vtvcab/giaitritv.php
 
 #EXTINF:-1 tvg-id="Hay TV" tvg-name="Hay TV" tvg-logo="http://4.bp.blogspot.com/-p4TU7RpPQYw/UUHvLDVYw3I/AAAAAAAAAF8/d1l3asSmMuw/s1600/catholictv.png" group-title="ERROR",Công Giáo TV
