@@ -719,15 +719,16 @@ http://www.xemtivionline.net/ok/next.php?id=ttxvn
 http://live.vnanet.vn/480P/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="Kênh Khác",Nhân Dân
-https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
+http://cdn.xemtivisohd.com/nguon/vieon.php?id=https://vieon.vn/truyen-hinh-truc-tuyen/nhan-dan-hd
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
 https://5952e4052a2e8.streamlock.net/live/truyenhinhnhandan720/chunklist_w1220145704.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://vovdulich.vn/templates/frontend/vovtv/Assets/img/logo.png" group-title="Kênh Khác",Vietnam Journey
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live_manifest.m3u8
 http://vncdn.mediatech.vn/vovlive/tv1live.m3u8
 http://vncdn.mediatech.vn/vovlive/tv1live_manifest.m3u8
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live_manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png" group-title="Kênh Khác",FBNC
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
