@@ -4,7 +4,7 @@
 	"version_name_maintenance":"1.0",
 	"url_app_share":"https://play.google.com/store/apps/details?id=com.mrnew.viettv",
 	"url_more_apps":"https://play.google.com/store/apps/developer?id=SolutionD",
-	"must_update_app":"true",
+	"must_update_app":"false",
 	"url_app_update":"https://play.google.com/store/apps/details?id=com.mrnew.viettv",
 	"version_name_target_update":"1.0",
 	"s_load_admob_first":"false",	
