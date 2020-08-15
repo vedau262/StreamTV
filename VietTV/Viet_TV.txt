@@ -240,10 +240,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
 #EXTINF:-1, tvg-id="FOX" tvg-logo="https://i.dlpng.com/static/png/504956_preview.png" tvg-name="FOX (HD)"  group-title="Quốc Tế",FOX (HD)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/V6Rww0Nj/500px-Trace-Urban-logo-2010-svg.png" tvg-name=""  group-title="Quốc Tế",Trace Urban (HD)
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/V6Rww0Nj/500px-Trace-Urban-logo-2010-svg.png" tvg-name=""  group-title="ERROR",Trace Urban (HD)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WyUSQok.png" group-title="Quốc Tế",Star World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WyUSQok.png" group-title="ERROR",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
@@ -320,13 +320,13 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/Bnv8mx33/dw.png" tvg-name="DW"  group-title="Quốc Tế",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.postimg.cc/9F4S8DLs/cbsn.png" tvg-name="CBSN (HD)"  group-title="Quốc Tế",CBSN (HD)
+#EXTINF:-1, tvg-id="" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/CBSN.png" tvg-name="CBSN (HD)"  group-title="Quốc Tế",CBSN (HD)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1, tvg-id="BBC World News" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/bbc-world-news-logo-png-4.png" tvg-name="BBC World News"  group-title="Quốc Tế",BBC World News
+#EXTINF:-1, tvg-id="BBC World News" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/bbc-world-news-logo-png-4.png" tvg-name="BBC World News"  group-title="ERROR",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 
-#EXTINF:-1, tvg-id="CNN_VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" tvg-name="CNN"  group-title="Quốc Tế",CNN
+#EXTINF:-1, tvg-id="CNN_VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" tvg-name="CNN"  group-title="ERROR",CNN
 http://ott-cdn.ucom.am/s27/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Quốc Tế",Sky News Extra 1
@@ -774,7 +774,7 @@ http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" tvg-name="Setanta Sports 2"  group-title="Sport",Setanta Sports 2
 http://ott-cdn.ucom.am/s82/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="Sport",Real Betis TV(Spain)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="ERROR",Real Betis TV(Spain)
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport",Real Madrid TV (English)
@@ -829,7 +829,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
+#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="ERROR",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
 
@@ -839,7 +839,7 @@ http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2018/11/Dsport-New-Logo.jpg" group-title="Sport",D Sport(India)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/Dsport.png" group-title="Sport",D Sport(India)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
@@ -863,7 +863,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
-#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="Sport",Jordan Sport TV
+#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="ERROR",Jordan Sport TV
 http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
@@ -883,7 +883,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sport",ATG(Sweden)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh4.googleusercontent.com/proxy/I5mN2iBoxUqlajffAgSNo16A8OO-CK2Hfr11bLjjUJDiZItaXe__-JOUaFuyO99iCOt3HJBOSc8OLYp9qkYfqsyB6Yov-7TFvBoGeW1rNfslKkkCQNE0FOM3QQla4Nrw3d9bKmqQpOz_WOnqmiQd" group-title="Sport",Türkmenistan Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh4.googleusercontent.com/proxy/I5mN2iBoxUqlajffAgSNo16A8OO-CK2Hfr11bLjjUJDiZItaXe__-JOUaFuyO99iCOt3HJBOSc8OLYp9qkYfqsyB6Yov-7TFvBoGeW1rNfslKkkCQNE0FOM3QQla4Nrw3d9bKmqQpOz_WOnqmiQd" group-title="ERROR",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
@@ -900,7 +900,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sport",Sportskool(United States)
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sport",Stadium(United States)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="ERROR",Stadium(United States)
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 
@@ -925,7 +925,7 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 6
 https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="ERROR",Olympic Channel 7
 https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="ERROR",Olympic Channel 8
