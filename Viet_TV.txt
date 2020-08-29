@@ -387,13 +387,13 @@ http://45.122.223.98/ok.php?id=1097166823132&app=apps&code=dG9rZW49KCopaihUdygqK
 
 
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/ssBtJ9y.png" group-title="Địa Phương",Hà Nội 1
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/hanoi1.png?raw=true" group-title="Địa Phương",Hà Nội 1
 http://data.xemtivihot.com/live/diaphuong/hanoi1.php
 http://vncdn.mediatech.vn/hntvlive/tv1live.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-h%C3%A0-n%E1%BB%99i-1-91.html
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/AAcWyUy.png" group-title="Địa Phương",Hà Nội 2
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/hanoi2.png?raw=true" group-title="Địa Phương",Hà Nội 2
 http://data.xemtivihot.com/live/diaphuong/hanoi2.php
 http://vncdn.mediatech.vn/hntvlive/tv2live.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-h%C3%A0-n%E1%BB%99i-2-93.html
@@ -468,7 +468,7 @@ http://sonlatv.vn/Modules/video/PlayVideo.aspx?channelId=4
 http://data.xemtivihot.com/live/diaphuong/vinhphuc.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-v%C4%A9nh-ph%C3%BAc-147.html
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh5.googleusercontent.com/proxy/RSznTy1tIFkl1Mf-aFs6_KjwGxlHM9ZVLVn3yhQO7UzSzZ1uslhgTL621jQWBhO0r4G02yQy-MK7NDePh_lFWTuYOsJy" group-title="Địa Phương",Hà Giang
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/hagiang.png?raw=true" group-title="Địa Phương",Hà Giang
 http://118.107.68.17:1935/VTC/smil:Hagiang.smil/chunklist_w1461998919_b864000_slVIE.m3u8
 http://data.xemtivihot.com/live/diaphuong/hagiang.php
 
@@ -592,13 +592,13 @@ https://haugiang.htvc.catchup.vnroute.com/c18cff5836fae316ec9985e63bab3aca159743
 http://data.xemtivihot.com/live/diaphuong/haugiang.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-truy%E1%BB%81n-h%C3%ACnh-h%E1%BA%ADu-giang-117.html
 
-#EXTINF:-1 tvg-id="THVL1" tvg-name="THVL1" tvg-logo="https://i.postimg.cc/DyRZPRxr/thvl1.png" group-title="Địa Phương",Vĩnh Long 1
+#EXTINF:-1 tvg-id="THVL1" tvg-name="THVL1" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/vinhlong1.png?raw=true" group-title="Địa Phương",Vĩnh Long 1
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8?
 http://118.107.68.10:1935/live/VinhLong1HD_800K/playlist.m3u8
 http://data.xemtivihot.com/live/diaphuong/thvl1.php
 http://data.xemtiviso.net/live/diaphuong/thvli.php
 
-#EXTINF:-1 tvg-id="THVL2" tvg-name="THVL2" tvg-logo="https://i.postimg.cc/1XjzTdsZ/thvl2.png" group-title="Địa Phương",Vĩnh Long 2
+#EXTINF:-1 tvg-id="THVL2" tvg-name="THVL2" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/vinhlong1.png?raw=true" group-title="Địa Phương",Vĩnh Long 2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
 http://cdn3.vtcplay.vn:1935/VTC/VinhLong2HD113_1200K/playlist.m3u8
 http://data.xemtivihot.com/live/diaphuong/thvl2.php
@@ -700,7 +700,7 @@ http://data.xemtivihot.com/live/diaphuong/baclieu.php?id=1
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://data.xemtivihot.com/live/diaphuong/camau.php
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh6.googleusercontent.com/proxy/n7gjVGH6M68JE2oZagTiOWltUvcgkf3hFPL1j-PsjlhVNW_QjHeMilZcSaQWHVcfWZEnH5TpEV5WyrEEi80cU9ZmaRMP605G62NdHg9mtY2ofuPQNhw" group-title="Kênh Khác",ANTV
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/antv.png?raw=true" group-title="Kênh Khác",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 http://vietcago.net/vstv/antv.m3u8
 http://data.xemtivihot.com/live/khac/antv.php
@@ -710,7 +710,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/playlist.m3u8
 http://data.xemtivihot.com/live/khac/quochoi.php
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QPVN" tvg-name="QPVN" tvg-logo="https://lh3.googleusercontent.com/proxy/srS19A1lMws3t3rGv8Ik02UN-KBu7ZTUyVPJFhlu9w3pMrEg9NfoDtJyR81Sn-ysmvEmQ7nXTHDBJds_wcA3l7Bq4ddpjBXNCIiRG5Qw-5AbPMfluPJChy4" group-title="Kênh Khác",QPVN
+#EXTINF:-1 tvg-id="QPVN" tvg-name="QPVN" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/qpvn.png?raw=true" group-title="Kênh Khác",QPVN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/chunks.m3u8
 https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
 http://vtvgolivedp.vtvdigital.vn/hls/8a11053ed5836b98484e109b78479964/1569247149532/quocphongtv.smil/playlist.m3u8
