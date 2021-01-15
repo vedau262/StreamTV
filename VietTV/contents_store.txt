@@ -531,7 +531,7 @@ http://171.244.141.125:8080/hls/hatinhtv.m3u8
 http://data.xemtivihot.com/live/diaphuong/quangtri.php
 http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/Hue.png" group-title="Địa Phương",Huế
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/Hue.png?raw=true" group-title="Địa Phương",Huế
 https://vtvgo.vn/xem-truc-tuyen-kenh-%C4%90%C3%A0i-ptth-t%E1%BB%89nh-th%E1%BB%ABa-thi%C3%AAn-hu%E1%BA%BF-127.html
 http://data.xemtivihot.com/live/diaphuong/hue.php
 
