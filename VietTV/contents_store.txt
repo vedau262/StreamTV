@@ -5,9 +5,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
 http://xemtivi.online/live/vtv1/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="https://i.postimg.cc/nzsVmkqR/vtv2hd.png" group-title="VTV - VTC",VTV2
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv2
-http://data.xemtivihot.com/live/vtv/vtv2.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
+https://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv2
+http://data.xemtivihot.com/live/vtv/vtv2.php
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
 http://xemtivi.online/live/vtv2/index.m3u8
 
@@ -686,9 +686,9 @@ http://tv.canthotv.vn/live/tv/tv.m3u8
 http://data.xemtivihot.com/live/diaphuong/cantho.php
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/18/522019-BTV1.png" group-title="Địa Phương",Bình Dương 1
-http://data.xemtivihot.com/live/diaphuong/binhduong1.php
-https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-b%C3%ACnh-d%C6%B0%C6%A1ng-1-179.html
+https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
+http://data.xemtivihot.com/live/diaphuong/binhduong1.php
 http://hplusliveall.e96bbe18.sabai.vn/990932aa468432af7923b9928d22f5be1582283379/btv1-480/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/playlist.m3u8
 
