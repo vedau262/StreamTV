@@ -653,7 +653,7 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-k%C3%AAnh-1-truy%E1%BB%81n-h%C3%ACnh-b%C3%ACnh-ph%C6%B0%E1%BB%9Bc-145.html
 http://data.xemtivihot.com/live/diaphuong/binhphuoc1.php
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://lh3.googleusercontent.com/proxy/g1fTcDYL-id-5BBUZZ9ZtWaSDVLtNXmcEWDW3Y5_wYB6Yc2nssIgUhjraXMDHadByer5M2m8CWa9dJdn0rhC1EZ7V1UwOKYkLhWmsnMJ-Aj2o_vCGrU" group-title="Địa Phương",Bình Phước 2
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/binhphuoc2.png?raw=true" group-title="Địa Phương",Bình Phước 2
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 http://118.69.197.145/hls/bptv2.m3u8
 
