@@ -1,11 +1,14 @@
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png" group-title="VTV - VTC",VTV1
 http://data.xemtivihot.com/live/vtv/vtv1.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
 http://xemtivi.online/live/vtv1/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="https://i.postimg.cc/nzsVmkqR/vtv2hd.png" group-title="VTV - VTC",VTV2
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv2
 http://data.xemtivihot.com/live/vtv/vtv2.php
 https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
 http://xemtivi.online/live/vtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3" tvg-logo="https://i.postimg.cc/mkCbXgX7/vtv3hd.png" group-title="VTV - VTC",VTV3
@@ -68,12 +71,13 @@ https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc3_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc4.png" group-title="VTV - VTC",Yeah1 Family
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/chunks.m3u8
+https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc4_sd.smil/playlist.m3u8
 http://42.112.168.176/live/eds/VTC4/sa_hls/VTC4.m3u8
 http://data.xemtivihot.com/live/vtc/vtc4.php
-https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc4_sd.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="VTC5" tvg-name="VTC5" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc5.png" group-title="VTV - VTC",VTC5
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 http://42.112.168.176/live/eds/VTC5/sa_hls/VTC5.m3u8
 http://data.xemtivihot.com/live/vtc/vtc5.php
 https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc5_sd.smil/playlist.m3u8
@@ -111,6 +115,7 @@ http://data.xemtivihot.com/live/vtc/vtc11.php
 https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc11_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTC12" tvg-name="VTC12" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/vtc12.png" group-title="VTV - VTC",VTC12
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 http://42.112.168.176/live/eds/VTC12/sa_hls/VTC12.m3u8
 http://data.xemtivihot.com/live/vtc/vtc12.php
 https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc12_sd.smil/playlist.m3u8
@@ -134,6 +139,7 @@ http://sv.xemtivitop.com/live/vtc/vtc16-2.php
 https://5cf1e0bd8ad7d.streamlock.net:443/mobile/smil:vtc16_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HTV1" tvg-name="HTV1" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/16/185783-505482-HTV1.png" group-title="HTV - SCTV",HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV1-SD-ABR/playlist.m3u8
 http://data.xemtivihot.com/live/htv/htv1.php
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8
@@ -146,12 +152,14 @@ http://data.xemtivihot.com/live/htv/htv2.php
 http://vietcago.net/vstv/htv2.m3u8
 
 #EXTINF:-1 tvg-id="HTV3" tvg-name="HTV3" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/750643-HTV3.png" group-title="HTV - SCTV",HTV3
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV3-SD-ABR/playlist.m3u8
 http://data.xemtivihot.com/live/htv/htv3.php
 http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
 http://vietcago.net/vstv/htv3.m3u8
 
 #EXTINF:-1 tvg-id="HTV4" tvg-name="HTV4" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/14/359584-htv-key-web.png" group-title="HTV - SCTV",HTV KEY
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV4-SD-ABR/playlist.m3u8
 http://data.xemtivihot.com/live/htv/htv4.php
 http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8
@@ -679,20 +687,28 @@ http://data.xemtivihot.com/live/diaphuong/cantho.php
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/18/522019-BTV1.png" group-title="Địa Phương",Bình Dương 1
 http://data.xemtivihot.com/live/diaphuong/binhduong1.php
+https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
 https://vtvgo.vn/xem-truc-tuyen-kenh-th-b%C3%ACnh-d%C6%B0%C6%A1ng-1-179.html
 http://hplusliveall.e96bbe18.sabai.vn/990932aa468432af7923b9928d22f5be1582283379/btv1-480/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png" group-title="Địa Phương",Bình Dương 2
+https://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
 http://data.xemtivihot.com/live/diaphuong/binhduong2.php
 http://hplusliveall.e96bbe18.sabai.vn/8c6b3e1bba886fbd65dcf4733e4384191582283379/btv2-480/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/playlist.m3u8
 http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
 
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/BTV10.png?raw=true" group-title="Địa Phương",BTV10-NCM
+https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://github.com/vedau262/StreamTV/blob/master/BTV11.png?raw=true" group-title="Địa Phương",BTV11 - Top Shopping
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/btv3.png" group-title="ERROR",Bình Dương 3
 http://hplusliveall.e96bbe18.sabai.vn/0112a9b1270293ac3f3efdb6f23f9b6c1582283379/btv3-720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/btv3.png" group-title="Địa Phương",Bình Dương 4
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/vedau262/StreamTV/master/btv3.png" group-title="ERROR",Bình Dương 4
 http://data.xemtivihot.com/live/diaphuong/binhduong4.php
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/thtv-logo.png" group-title="Địa Phương",Trà Vinh
